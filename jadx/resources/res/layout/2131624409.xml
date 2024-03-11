@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429807" android:layout_width="0dp" android:layout_height="0dp" android:importantForAccessibility="yes" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131428959" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428961" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428970" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428965" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428966" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428969" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:id="@+id/2131428968" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <include android:gravity="center" android:id="@+id/2131429127" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/2131624396"/>
+    <include android:gravity="center" android:id="@+id/2131429128" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/2131624396"/>
+    <include android:gravity="center" android:id="@+id/2131429129" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/2131624396"/>
+    <include android:gravity="center" android:id="@+id/2131429130" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/2131624396"/>
+</FrameLayout>

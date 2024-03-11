@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionGroup="true">
+    <o.C3786bKp android:id="@+id/2131428307" android:background="?attr/windowBackground" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:id="@+id/2131428915" android:background="?attr/toolbarBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/2131428916" android:background="@color/2131100757" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131166098" android:paddingEnd="@dimen/2131166098">
+            <include android:id="@+id/2131428905" layout="@layout/2131624596"/>
+            <include android:id="@+id/2131428910" layout="@layout/2131624603"/>
+        </LinearLayout>
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

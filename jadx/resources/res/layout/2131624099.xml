@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427934" android:layout_width="0dp" android:layout_height="match_parent" android:layout_margin="4dp" app:layout_flexGrow="1" app:layout_maxWidth="@dimen/2131166742" app:layout_minWidth="@dimen/2131166743" style="?attr/shareButtonVisibilityStyle">
+    <include android:id="@+id/2131429471" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/2131624831"/>
+</FrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" app:cardCornerRadius="8dp" app:cardPreventCornerOverlap="false">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427760" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@null" style="@style/2132084003"/>
+    <FrameLayout android:id="@+id/2131428619" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:background="@drawable/2131231390" android:layout_width="@dimen/2131165395" android:layout_height="@dimen/2131165395" android:src="@drawable/2131233803" android:scaleType="center" android:importantForAccessibility="no"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131429338" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:background="@drawable/2131231390" android:layout_width="@dimen/2131165395" android:layout_height="@dimen/2131165395" android:src="@drawable/2131233811" android:scaleType="center" android:importantForAccessibility="no"/>
+    </FrameLayout>
+</androidx.cardview.widget.CardView>

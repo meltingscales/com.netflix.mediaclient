@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C5624cCh xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:focusable="true" android:focusableInTouchMode="true" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:layoutDirection="ltr" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+    <FrameLayout android:id="@+id/2131427697" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.C5640cCx android:id="@+id/2131427692" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427693" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427695" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" android:importantForAccessibility="no"/>
+    </FrameLayout>
+    <o.C5640cCx android:id="@+id/2131427691" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    <o.C5640cCx android:id="@+id/2131427696" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    <o.C1204Sr android:gravity="center" android:id="@+id/2131427698" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:importantForAccessibility="no"/>
+    <View android:id="@+id/2131427699" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    <o.C1204Sr android:textStyle="bold" android:id="@+id/2131427694" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+</o.C5624cCh>

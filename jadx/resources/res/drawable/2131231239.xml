@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/2131230776">
+    <target android:name="billboard_art" android:animation="@drawable/2131230777"/>
+    <target android:name="billboard_title" android:animation="@drawable/2131230783"/>
+    <target android:name="billboard_cta" android:animation="@drawable/2131230784"/>
+    <target android:name="0_0" android:animation="@drawable/2131230785"/>
+    <target android:name="0_1" android:animation="@drawable/2131230786"/>
+    <target android:name="0_2" android:animation="@drawable/2131230787"/>
+    <target android:name="0_3" android:animation="@drawable/2131230788"/>
+    <target android:name="0_title" android:animation="@drawable/2131230789"/>
+    <target android:name="1_title" android:animation="@drawable/2131230790"/>
+    <target android:name="1_0" android:animation="@drawable/2131230778"/>
+    <target android:name="1_1" android:animation="@drawable/2131230779"/>
+    <target android:name="1_2" android:animation="@drawable/2131230780"/>
+    <target android:name="1_3" android:animation="@drawable/2131230781"/>
+</animated-vector>

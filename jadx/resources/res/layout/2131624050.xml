@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/2131099774" android:paddingTop="@dimen/2131165434" android:paddingBottom="@dimen/2131165431" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginStart="@dimen/2131165432" android:layout_marginEnd="@dimen/2131165433">
+    <o.C1204Sr android:gravity="center" android:layout_gravity="center" android:id="@+id/2131427860" android:visibility="gone" android:layout_marginBottom="15dp" android:text="00:00" style="@style/2132083014"/>
+    <TableLayout android:layout_gravity="center_horizontal" android:id="@+id/2131427978" android:paddingTop="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+        <TableRow android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131428998" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427606" android:background="@drawable/2131234704" android:clickable="true" android:text="@string/2132018647" android:contentDescription="@string/2132017235" style="@style/2132083015"/> /&gt; 
+                <o.C1204Sr android:text="@string/2132018664" android:contentDescription="@string/2132017235" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429815" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427607" android:background="@drawable/2131234704" android:clickable="true" android:text="@string/2132018648" android:contentDescription="@string/2132017236" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018649" android:contentDescription="@string/2132017236" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429717" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427608" android:background="@drawable/2131234704" android:clickable="true" android:text="@string/2132018650" android:contentDescription="@string/2132017237" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018651" android:contentDescription="@string/2132017237" style="@style/2132083016"/>
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131428251" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427609" android:text="@string/2132018652" android:contentDescription="@string/2132017238" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018653" android:contentDescription="@string/2132017238" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131428224" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427610" android:text="@string/2132018654" android:contentDescription="@string/2132017239" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018655" android:contentDescription="@string/2132017239" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429501" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427611" android:text="@string/2132018656" android:contentDescription="@string/2132017240" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018657" android:contentDescription="@string/2132017240" style="@style/2132083016"/>
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429467" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427612" android:text="@string/2132018658" android:contentDescription="@string/2132017241" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018659" android:contentDescription="@string/2132017241" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131428066" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427613" android:text="@string/2132018660" android:contentDescription="@string/2132017242" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018661" android:contentDescription="@string/2132017242" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131428953" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427614" android:text="@string/2132018662" android:contentDescription="@string/2132017243" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018663" android:contentDescription="@string/2132017243" style="@style/2132083016"/>
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429585" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:textColor="@color/2131099777" android:id="@+id/2131427628" android:text="@string/2132018666" android:contentDescription="@string/2132017245" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018664" android:contentDescription="@string/2132017245" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429947" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:id="@+id/2131427605" android:text="@string/2132018645" android:contentDescription="@string/2132017234" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018646" android:contentDescription="@string/2132017234" style="@style/2132083016"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/2131429196" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <o.C1204Sr android:textColor="@color/2131099777" android:id="@+id/2131427625" android:text="@string/2132018665" android:contentDescription="@string/2132017244" style="@style/2132083015"/>
+                <o.C1204Sr android:text="@string/2132018664" android:contentDescription="@string/2132017244" style="@style/2132083016"/>
+            </LinearLayout>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

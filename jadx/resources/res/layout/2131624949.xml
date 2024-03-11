@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/2131231537" android:paddingTop="24dp" android:paddingBottom="24dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="32dp" android:paddingEnd="32dp">
+    <o.C1204Sr android:textSize="18sp" android:id="@+id/2131429506" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@+id/2131429504" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="22dp" android:text="@string/2132017397"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427806" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/2131427480" android:paddingTop="?attr/netflixActionBarSize" android:layout_width="match_parent" android:layout_height="match_parent">
+        <o.SI android:id="@+id/2131428233" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:id="@+id/2131428652" layout="@layout/2131624440"/>
+            <WebView android:id="@+id/2131428197" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </o.SI>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/2131099710" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166098">
+    <RelativeLayout android:background="@color/2131099710" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:orientation="vertical" android:id="@+id/2131428399" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="@string/2132017247">
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@+id/2131428400" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:importantForAccessibility="no" android:elevation="16dp"/>
+            <ImageView android:id="@+id/2131428401" android:background="@drawable/2131234708" android:paddingBottom="12dp" android:focusable="true" android:visibility="gone" android:layout_width="36dp" android:layout_height="36dp" android:src="@drawable/2131231645" android:layout_alignParentBottom="true" android:importantForAccessibility="no" android:paddingEnd="12dp" android:layout_marginEnd="10dp" android:layout_alignParentEnd="true" android:elevation="16dp" app:tint="@color/2131101779"/>
+        </RelativeLayout>
+        <o.C1204Sr android:id="@+id/2131428402" android:layout_marginTop="@dimen/2131165718" android:layout_marginBottom="@dimen/2131166130" android:maxLines="3" android:layout_below="@+id/2131428399" android:layout_marginStart="@dimen/2131166098" android:layout_marginEnd="@dimen/2131166098" style="@style/2132083093"/>
+        <o.C7161cqw android:id="@+id/2131428892" android:paddingBottom="@dimen/2131166130" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/2131428402"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

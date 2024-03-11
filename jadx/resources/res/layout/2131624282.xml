@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <o.C1204Sr android:textSize="@dimen/2131166641" android:ellipsize="end" android:layout_gravity="start" android:id="@+id/2131428686" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165736" android:layout_marginBottom="@dimen/2131165735" android:maxLines="1" android:layout_marginStart="@dimen/2131165737" android:layout_marginEnd="@dimen/2131165737" android:accessibilityHeading="true" style="@style/2132083329"/>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="start" android:id="@+id/2131428687" android:layout_width="wrap_content" android:layout_height="@dimen/2131166403" android:layout_marginTop="@dimen/2131165736" android:layout_marginBottom="@dimen/2131165461" android:adjustViewBounds="true" android:layout_marginStart="@dimen/2131165737" android:layout_marginEnd="@dimen/2131165737"/>
+    </FrameLayout>
+    <o.C9909yq android:orientation="horizontal" android:id="@+id/2131428685" android:scrollbars="none" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

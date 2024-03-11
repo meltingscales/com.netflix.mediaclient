@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/2131230810">
+    <target android:name="interference_pattern_group" android:animation="@drawable/2131230811"/>
+    <target android:name="interference_pattern_path" android:animation="@drawable/2131230812"/>
+</animated-vector>

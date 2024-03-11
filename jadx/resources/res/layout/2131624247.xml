@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/2131428192" android:background="@drawable/2131231537" android:paddingTop="18dp" android:paddingBottom="18dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="16dp" android:paddingEnd="16dp">
+        <ImageView android:id="@+id/2131428193" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131231380"/>
+        <o.C1204Sr android:textSize="18sp" android:id="@+id/2131428194" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="24dp"/>
+    </LinearLayout>
+    <FrameLayout android:id="@+id/2131428191" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>

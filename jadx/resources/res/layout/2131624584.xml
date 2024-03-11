@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:id="@+id/2131427630" android:layout_marginTop="@dimen/2131166749" android:layout_marginBottom="@dimen/2131166749" style="@style/2132082997"/>
+</LinearLayout>

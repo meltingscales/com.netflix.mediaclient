@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="116dp">
+    <ImageView android:id="@+id/2131428822" android:background="@color/2131101503" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    <View android:id="@+id/2131428823" android:background="@color/2131101502" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <RelativeLayout android:paddingLeft="24dp" android:paddingTop="12dp" android:paddingRight="24dp" android:paddingBottom="32dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageButton android:layout_gravity="center_vertical" android:id="@+id/2131428814" android:background="?attr/selectableItemBackgroundBorderless" android:layout_width="24dp" android:layout_height="24dp" android:src="?attr/mediaRouteCloseDrawable" android:contentDescription="@string/2132019503"/>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:layout_below="@+id/2131428814">
+            <ImageView android:id="@+id/2131428821" android:layout_width="@dimen/2131166134" android:layout_height="@dimen/2131166134" android:scaleType="fitCenter"/>
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <TextView android:textAppearance="@style/2132083693" android:ellipsize="end" android:gravity="start" android:id="@+id/2131428825" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:textAlignment="viewStart"/>
+                <TextView android:textAppearance="@style/2132083694" android:ellipsize="end" android:gravity="start" android:id="@+id/2131428824" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:textAlignment="viewStart"/>
+            </LinearLayout>
+            <Button android:textAppearance="@style/2132083693" android:id="@+id/2131428830" android:background="@drawable/2131234508" android:layout_width="114dp" android:layout_height="36sp" android:text="@string/2132019512" android:textAllCaps="false"/>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

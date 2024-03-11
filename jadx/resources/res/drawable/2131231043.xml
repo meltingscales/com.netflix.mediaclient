@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@drawable/2131231044" android:duration="458" android:startOffset="0" android:valueFrom="0.0323" android:valueTo="0.6389" android:valueType="floatType" android:propertyName="trimPathOffset"/>
+    <objectAnimator android:interpolator="@drawable/2131231045" android:duration="500" android:startOffset="458" android:valueFrom="0.6389" android:valueTo="0.9972" android:valueType="floatType" android:propertyName="trimPathOffset"/>
+</set>

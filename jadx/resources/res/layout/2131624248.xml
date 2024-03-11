@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427489" android:background="@drawable/2131231538" android:paddingTop="37dp" android:paddingBottom="15dp" android:clickable="false" android:layout_width="wrap_content" android:layout_height="80dp" android:adjustViewBounds="true" android:cropToPadding="false" android:paddingStart="60dp" android:paddingEnd="10dp"/>
+</FrameLayout>

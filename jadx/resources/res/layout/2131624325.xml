@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427542" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@+id/2131428358" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.6"/>
+    <ViewStub android:id="@+id/2131427480" android:inflatedId="@+id/2131427480" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <ViewStub android:id="@+id/2131427523" android:inflatedId="@+id/2131427523" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166749" android:layout_marginStart="@dimen/2131166749" app:layout_constraintEnd_toEndOf="@+id/2131428358" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <ViewStub android:id="@+id/2131427522" android:inflatedId="@+id/2131427522" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" app:layout_constraintStart_toStartOf="@+id/2131427523" app:layout_constraintTop_toBottomOf="@+id/2131427523"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1204Sr android:textSize="16sp" android:textColor="@color/2131099888" android:gravity="start" android:layout_gravity="center_horizontal" android:id="@+id/2131429681" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/2131166675" android:minWidth="@dimen/2131166675" android:layout_marginStart="@dimen/2131166677" android:layout_marginEnd="@dimen/2131166677" style="@style/2132083242"/>
+</FrameLayout>

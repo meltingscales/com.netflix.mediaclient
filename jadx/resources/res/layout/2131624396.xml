@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131428493" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layoutDirection="ltr">
+    <o.C5640cCx android:id="@+id/2131428474" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <o.C1204Sr android:gravity="center" android:id="@+id/2131428492" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:gravity="center" android:id="@+id/2131428521" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

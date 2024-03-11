@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/2131427626" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+    <o.C1203Sq android:id="@+id/2131429847" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" app:autoSizeMaxTextSize="@dimen/2131166616" app:autoSizeMinTextSize="@dimen/2131166642" app:autoSizeTextType="uniform" style="@style/2132083218"/>
+    <o.C1203Sq android:id="@+id/2131429325" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019990" app:autoSizeMaxTextSize="@dimen/2131166616" app:autoSizeMinTextSize="@dimen/2131166642" app:autoSizeTextType="uniform" style="@style/2132083204"/>
+    <o.C1203Sq android:id="@+id/2131427633" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019978" app:autoSizeMaxTextSize="@dimen/2131166616" app:autoSizeMinTextSize="@dimen/2131166642" app:autoSizeTextType="uniform" style="@style/2132083204"/>
+    <o.C1204Sr android:textSize="@dimen/2131166620" android:textColor="@color/2131099890" android:gravity="center" android:id="@+id/2131427603" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542"/>
+</LinearLayout>

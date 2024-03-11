@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1204Sr xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/2131166627" android:textColor="@android:color/white" android:ellipsize="end" android:id="@+id/2131429146" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginBottom="8dp" android:maxLines="2" android:textAlignment="center" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165461" android:accessibilityTraversalAfter="@+id/2131429109"/>

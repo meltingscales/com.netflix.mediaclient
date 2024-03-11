@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C5633cCq xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+    <FrameLayout android:id="@+id/2131427697" android:focusable="false" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.C5640cCx android:id="@+id/2131427692" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:screenReaderFocusable="true"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131429761" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+        <o.C5640cCx android:gravity="center" android:id="@+id/2131429765" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+        <o.C5640cCx android:gravity="center" android:id="@+id/2131429767" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+        <o.C1204Sr android:gravity="center" android:id="@+id/2131429764" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+        <o.C1204Sr android:gravity="center" android:id="@+id/2131429763" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    </FrameLayout>
+    <o.C1204Sr android:textStyle="bold" android:id="@+id/2131427694" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+</o.C5633cCq>

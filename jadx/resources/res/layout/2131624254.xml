@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="#2d2d2d" android:paddingTop="32dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1204Sr android:textSize="28sp" android:textColor="@color/2131101779" android:gravity="center_horizontal" android:id="@+id/2131429736" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020586" android:paddingHorizontal="16dp" android:accessibilityHeading="true" style="@style/2132083242"/>
+    <o.C1204Sr android:textSize="16sp" android:textColor="@color/2131101628" android:gravity="center_horizontal" android:id="@+id/2131429632" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/2132020582" android:paddingHorizontal="16dp" style="@style/2132083236"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/2131429719" android:paddingLeft="28dp" android:paddingTop="8dp" android:paddingRight="28dp" android:paddingBottom="8dp" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="28dp" android:paddingVertical="8dp">
+                <ImageView android:focusable="false" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/2131234321" android:scaleType="centerInside" android:contentDescription="@string/2132017286"/>
+                <o.C1204Sr android:textSize="16sp" android:textColor="@color/2131101779" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020583" android:layout_marginStart="12dp" style="@style/2132083236"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/2131429721" android:paddingLeft="28dp" android:paddingTop="8dp" android:paddingRight="28dp" android:paddingBottom="8dp" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="28dp" android:paddingVertical="8dp">
+                <ImageView android:focusable="false" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/2131234326" android:scaleType="centerInside" android:contentDescription="@string/2132017287"/>
+                <o.C1204Sr android:textSize="16sp" android:textColor="@color/2131101779" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020584" android:layout_marginStart="12dp" style="@style/2132083236"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/2131429722" android:paddingLeft="28dp" android:paddingTop="8dp" android:paddingRight="28dp" android:paddingBottom="8dp" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="28dp" android:paddingVertical="8dp">
+                <ImageView android:focusable="false" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/2131234323" android:scaleType="centerInside" android:contentDescription="@string/2132017288"/>
+                <o.C1204Sr android:textSize="16dp" android:textColor="@color/2131101779" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020585" android:layout_marginStart="12dp" style="@style/2132083236"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <View android:background="#b2808080" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp"/>
+    <o.C1203Sq android:textSize="16sp" android:gravity="center" android:id="@+id/close_button" android:layout_width="match_parent" android:layout_height="52dp" android:text="@string/2132020581" app:nb_rippleColor="@color/2131099890" app:nb_textColor="@color/2131101779" style="@style/2132083236"/>
+</LinearLayout>

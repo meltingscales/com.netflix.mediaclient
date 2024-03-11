@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C7184crS xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429882" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166130" android:layout_marginEnd="@dimen/2131166130" app:customLayout="@layout/2131624143" app:showProgressMessages="true"/>

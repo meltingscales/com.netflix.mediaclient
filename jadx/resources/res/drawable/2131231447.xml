@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="10dp" android:width="102dp" android:viewportWidth="102" android:viewportHeight="10">
+    <path android:fillColor="?attr/dp_progressive_loader_color" android:pathData="M2,0L100,0A2,2 0,0 1,102 2L102,8A2,2 0,0 1,100 10L2,10A2,2 0,0 1,0 8L0,2A2,2 0,0 1,2 0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+</vector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="64dp" android:width="96dp" android:viewportWidth="96" android:viewportHeight="64">
+    <group>
+        <clip-path android:pathData="M0,0h96v64h-96z"/>
+        <path android:fillColor="@drawable/2131230855" android:pathData="M14.667,56.667H81.333L96,64H0L14.667,56.667Z"/>
+        <path android:fillColor="@drawable/2131230856" android:pathData="M14.667,35.333L61.333,9.333L81.333,35.333V56.667H14.667V35.333Z"/>
+        <path android:fillColor="@drawable/2131230860" android:pathData="M81.333,38.667L59,11L61.333,8L81.333,34V38.667Z" android:strokeAlpha="0.8" android:fillAlpha="0.8"/>
+        <path android:fillColor="@drawable/2131230861" android:pathData="M14.667,35.333h25.333v21.333h-25.333z"/>
+        <path android:fillColor="@drawable/2131230862" android:pathData="M84,35.333H81.333L61.333,9.519L40,35.333H32L61.333,5.333L84,33.667V35.333Z"/>
+        <path android:fillColor="@drawable/2131230863" android:pathData="M62.667,4.667H41.333L12.667,33.333V35.333H37.333L61.217,6.333L84,35.333L85.667,34.667L62.667,4.667Z"/>
+        <path android:fillColor="@drawable/2131230864" android:pathData="M33.333,7.333V24L37.333,18.86V7.333H33.333Z"/>
+        <path android:fillColor="@drawable/2131230865" android:pathData="M33.333,7.333V24L29.333,18.86V7.333H33.333Z"/>
+        <path android:fillColor="@drawable/2131230866" android:pathData="M54,35.333H67.333V56.667H54V35.333Z"/>
+        <path android:fillColor="@drawable/2131230867" android:pathData="M54,35.333H67.333V56.667H54V35.333Z"/>
+        <path android:fillColor="@drawable/2131230857" android:pathData="M65.333,35.333H67.333V56.667H65.333V35.333Z" android:strokeAlpha="0.7" android:fillAlpha="0.7"/>
+        <path android:fillColor="@drawable/2131230858" android:pathData="M54,56.667H67.333L85.333,64H62.152L54,56.667Z"/>
+        <path android:fillColor="@drawable/2131230859" android:pathData="M14.667,35.333h25.333v2.667h-25.333z" android:strokeAlpha="0.6" android:fillAlpha="0.6"/>
+    </group>
+</vector>

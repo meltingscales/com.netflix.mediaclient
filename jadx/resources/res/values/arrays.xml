@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="2130903041">
+        <item>@id/2131427650</item>
+        <item>@id/2131427650</item>
+        <item>@id/2131427653</item>
+    </array>
+    <array name="2130903042">
+        <item>@string/2132017702</item>
+        <item>@string/2132017695</item>
+        <item>@string/2132017701</item>
+        <item>@string/2132017698</item>
+        <item>@string/2132017696</item>
+        <item>@string/2132017703</item>
+        <item>@string/2132017699</item>
+        <item>@string/2132017697</item>
+    </array>
+    <array name="2130903043">
+        <item>@string/2132017700</item>
+        <item>@string/2132017702</item>
+        <item>@string/2132017695</item>
+        <item>@string/2132017701</item>
+        <item>@string/2132017698</item>
+        <item>@string/2132017696</item>
+        <item>@string/2132017703</item>
+        <item>@string/2132017699</item>
+        <item>@string/2132017697</item>
+    </array>
+    <array name="2130903044">
+        <item>@string/2132017944</item>
+        <item>@string/2132017946</item>
+        <item>@string/2132017945</item>
+    </array>
+    <array name="2130903047">
+        <item>@string/2132019472</item>
+        <item>@string/2132019476</item>
+        <item>@string/2132019477</item>
+        <item>@string/2132019478</item>
+        <item>@string/2132019479</item>
+        <item>@string/2132019480</item>
+        <item>@string/2132019481</item>
+        <item>@string/2132019482</item>
+        <item>@string/2132019483</item>
+        <item>@string/2132019473</item>
+        <item>@string/2132019474</item>
+        <item>@string/2132019475</item>
+    </array>
+    <array name="2130903048">
+        <item>@string/2132020276</item>
+        <item>@string/2132020280</item>
+        <item>@string/2132020281</item>
+        <item>@string/2132020282</item>
+        <item>@string/2132020283</item>
+        <item>@string/2132020284</item>
+        <item>@string/2132020285</item>
+        <item>@string/2132020286</item>
+        <item>@string/2132020287</item>
+        <item>@string/2132020277</item>
+        <item>@string/2132020278</item>
+        <item>@string/2132020279</item>
+    </array>
+</resources>

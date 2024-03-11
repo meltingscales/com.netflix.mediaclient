@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131624705"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/2131429189" android:background="@drawable/2131234620" android:paddingBottom="@dimen/2131166454" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="@dimen/2131166453" android:paddingEnd="@dimen/2131166453">
+        <o.C1204Sr android:id="@+id/2131429168" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166454" style="@style/2132083294"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/2131429173" android:paddingBottom="@dimen/2131166452" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <FrameLayout android:id="@+id/2131429169" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

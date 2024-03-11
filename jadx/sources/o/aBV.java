@@ -1,0 +1,35 @@
+package o;
+
+import com.apollographql.apollo3.api.json.JsonReader;
+import o.AbstractC8997hK;
+
+/* loaded from: classes3.dex */
+public final class aBV implements InterfaceC8949gP<C3364axb> {
+    public static final aBV e = new aBV();
+
+    private aBV() {
+    }
+
+    @Override // o.InterfaceC8949gP
+    /* renamed from: e */
+    public C3364axb b(JsonReader jsonReader, C9028hp c9028hp) {
+        C8632dsu.c((Object) jsonReader, "");
+        C8632dsu.c((Object) c9028hp, "");
+        throw new IllegalStateException("Input type used in output position");
+    }
+
+    @Override // o.InterfaceC8949gP
+    public void e(InterfaceC9069id interfaceC9069id, C9028hp c9028hp, C3364axb c3364axb) {
+        C8632dsu.c((Object) interfaceC9069id, "");
+        C8632dsu.c((Object) c9028hp, "");
+        C8632dsu.c((Object) c3364axb, "");
+        if (c3364axb.a() instanceof AbstractC8997hK.b) {
+            interfaceC9069id.e("base");
+            C8953gT.e(C8953gT.d(C8953gT.c(C1405aAb.e, false, 1, null))).e(interfaceC9069id, c9028hp, (AbstractC8997hK.b) c3364axb.a());
+        }
+        if (c3364axb.d() instanceof AbstractC8997hK.b) {
+            interfaceC9069id.e("maxTotalEntities");
+            C8953gT.e(C8953gT.n).e(interfaceC9069id, c9028hp, (AbstractC8997hK.b) c3364axb.d());
+        }
+    }
+}

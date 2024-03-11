@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/2131233290" android:id="@+id/2131428064" android:title="@string/2132020812" app:iconTint="@color/2131100293" app:showAsAction="always"/>
+    <item android:icon="@drawable/2131233859" android:id="@+id/2131427707" android:title="@string/2132020810" app:iconTint="@color/2131100293" app:showAsAction="always"/>
+</menu>

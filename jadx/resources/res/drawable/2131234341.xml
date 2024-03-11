@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="12dp" android:width="12dp" android:viewportWidth="12" android:viewportHeight="12">
+    <path android:fillColor="?attr/sheet_close_icon_color" android:pathData="M6,7.1L1.8833,11.2167L0.7834,10.1168L4.9001,6.0001L0.7834,1.8834L1.8833,0.7834L6,4.9001L10.1167,0.7834L11.2167,1.8834L7.1,6.0001L11.2167,10.1168L10.1167,11.2167L6,7.1Z"/>
+</vector>

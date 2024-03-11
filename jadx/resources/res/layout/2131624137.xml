@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@+id/2131427956" android:padding="50dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131234572" android:scaleType="fitCenter" style="@style/2132084398"/>
+    <ListView android:layout_gravity="center" android:id="@+id/2131428636" android:padding="@dimen/2131165542" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</merge>

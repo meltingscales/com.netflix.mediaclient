@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="start|top" android:orientation="horizontal" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/2131429396" android:layout_width="0dp" android:layout_height="0dp"/>
+    <o.C9883yQ android:id="@+id/2131429328" android:layout_width="match_parent" android:layout_height="48dp"/>
+    <com.airbnb.epoxy.EpoxyRecyclerView android:orientation="horizontal" android:id="@+id/2131429330" android:paddingTop="@dimen/2131166639" android:paddingBottom="@dimen/2131166639" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:paddingStart="@dimen/2131166097" android:paddingEnd="@dimen/2131166097"/>
+</LinearLayout>

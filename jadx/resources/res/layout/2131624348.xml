@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1175Ro xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingTop="8dp" android:paddingBottom="@dimen/2131165289" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/2131165295" android:paddingEnd="@dimen/2131165295">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/2131427517" android:layout_width="match_parent" android:layout_height="match_parent" android:elevation="@dimen/2131165291">
+        <FrameLayout android:id="@+id/2131428677" android:layout_width="0dp" android:layout_height="115dp" android:layout_marginLeft="70dp" android:layout_marginRight="70dp" android:layout_marginBottom="20dp" android:layout_marginHorizontal="70dp" app:layout_constraintBottom_toTopOf="@+id/2131429675" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131429675" android:layout_width="300dp" android:layout_height="16dp" android:layout_marginBottom="20dp" app:layout_constraintBottom_toTopOf="@+id/2131427832" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131427832" android:layout_width="0dp" android:layout_height="40dp" android:layout_marginStart="@dimen/2131165290" android:layout_marginEnd="@dimen/2131165290" app:layout_constraintEnd_toStartOf="@+id/2131427833" app:layout_constraintHorizontal_weight="1" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427560">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131427833" android:layout_width="0dp" android:layout_height="40dp" android:layout_marginEnd="@dimen/2131165290" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_weight="1" app:layout_constraintStart_toEndOf="@+id/2131427832" app:layout_constraintTop_toBottomOf="@+id/2131427560">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@+id/2131427560" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="59dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429017" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" app:roundedCornerRadius="@dimen/2131165294" app:roundingBorderColor="@color/2131101752" app:roundingBorderWidth="@dimen/2131165293"/>
+</o.C1175Ro>

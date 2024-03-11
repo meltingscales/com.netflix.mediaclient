@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" style="@style/2132084394">
+    <FrameLayout android:layout_gravity="center" android:id="@+id/2131428669" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

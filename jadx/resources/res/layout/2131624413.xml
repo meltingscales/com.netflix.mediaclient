@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent" app:cardCornerRadius="8dp">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/2131231439" android:padding="@dimen/2131165702" android:layout_width="match_parent" android:layout_height="match_parent" android:animateLayoutChanges="true">
+        <o.C1193Sg android:layout_gravity="end" android:id="@+id/2131427714" android:padding="10dp" android:layout_width="32dp" android:layout_height="32dp" android:src="@drawable/2131234050" android:contentDescription="@string/2132017646" app:nb_buttonColor="@color/2131100085" app:nb_cornerRadius="16dp" app:nb_iconColor="@color/2131100293" app:nb_strokeColor="@color/2131100035" app:nb_strokeWidth="1dp"/>
+        <androidx.viewpager2.widget.ViewPager2 android:id="@+id/2131428540" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <LinearLayout android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="@dimen/2131165701" android:layout_marginBottom="12dp" android:layout_marginStart="@dimen/2131165701" android:layout_marginEnd="@dimen/2131165701">
+            <o.C1203Sq android:textSize="@dimen/2131166631" android:layout_gravity="start|center_vertical" android:id="@+id/2131427478" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/2132018413" app:nb_buttonColor="@color/2131100077" style="@style/2132083219"/>
+            <com.google.android.material.tabs.TabLayout android:layout_gravity="center" android:id="@+id/2131428542" android:background="@color/2131101760" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" app:tabBackground="@drawable/2131234735" app:tabGravity="2131427669" app:tabIndicatorHeight="0dp" app:tabMaxWidth="18dp"/>
+            <FrameLayout android:layout_gravity="end|center_vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+                <o.C1203Sq android:textSize="@dimen/2131166631" android:id="@+id/2131428950" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/2132018419" style="@style/2132083208"/>
+                <o.C1203Sq android:textSize="@dimen/2131166631" android:id="@+id/2131428004" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/2132018414" style="@style/2132083218"/>
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

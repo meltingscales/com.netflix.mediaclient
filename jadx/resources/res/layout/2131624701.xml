@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.C1204Sr android:textColor="@color/2131101779" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131166435" android:text="@string/2132018844" style="@style/2132083368"/>
+    <o.C1203Sq android:textSize="@dimen/2131166434" android:id="@+id/2131429188" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165562" android:text="@string/2132019029" android:contentDescription="@string/2132019029" android:textAllCaps="false" android:drawableStart="@drawable/2131234601" style="@style/2132083229"/>
+    <o.C1203Sq android:id="@+id/2131429190" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165562" android:text="@string/2132019033" android:contentDescription="@string/2132019033" android:drawableStart="@drawable/2131234600" style="@style/2132083290"/>
+    <o.C1203Sq android:id="@+id/2131429194" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/2131165562" android:text="@string/2132019040" android:contentDescription="@string/2132019040" android:drawableStart="@drawable/2131234602" style="@style/2132083290"/>
+</merge>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1203Sq xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131427604" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9dp" android:text="@string/2132018615" android:singleLine="true" android:drawableStart="@drawable/2131234413" android:layout_marginStart="@dimen/2131165462" android:layout_marginEnd="@dimen/2131165462" style="?attr/secondarySmallButtonStyle"/>

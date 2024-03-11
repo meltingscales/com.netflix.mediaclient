@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1204Sr android:textColor="#0000" android:id="@+id/2131429477" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="...................." android:layout_marginEnd="@dimen/2131165461" style="@style/2132083337"/>
+</FrameLayout>

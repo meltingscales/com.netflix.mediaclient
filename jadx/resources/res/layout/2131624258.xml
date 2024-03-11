@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/2131429015" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427419" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131233931" android:tint="@color/2131100302" android:importantForAccessibility="no" android:paddingEnd="@dimen/2131166098"/>
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/2131428462" android:background="@drawable/2131234743" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="0" style="@style/2132083544">
+            <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083547" android:id="@+id/2131428461" android:layout_width="0dp" android:layout_height="wrap_content" android:labelFor="@+id/2131428058" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/2131428568" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+                <EditText android:id="@+id/2131428058" android:background="@color/2131101760" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textNoSuggestions" android:importantForAutofill="no" style="@style/2132083521"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <o.C1204Sr android:textSize="20dp" android:textColor="@color/2131099888" android:id="@+id/2131428568" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017390" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/2131428567" app:layout_constraintTop_toTopOf="0" style="@style/2132083179"/>
+            <CheckBox android:theme="@style/2132082691" android:id="@+id/2131428567" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017262" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+    <o.C1204Sr android:id="@+id/2131428460" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083524"/>
+</merge>

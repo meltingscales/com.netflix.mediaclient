@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/2131428418" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="17dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <o.C1204Sr android:id="@+id/2131429267" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toEndOf="@+id/2131428418" app:layout_constraintTop_toTopOf="0" style="@style/2132082701"/>
+    <o.C1204Sr android:id="@+id/2131427454" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="6dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="@+id/2131429267" app:layout_constraintTop_toBottomOf="@+id/2131429267" style="@style/2132082700"/>
+    <View android:background="@color/2131099892" android:layout_width="0dp" android:layout_height="1dp" android:layout_marginTop="20dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427454"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

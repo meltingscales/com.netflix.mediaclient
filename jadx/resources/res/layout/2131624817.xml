@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1204Sr xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/2131165533" android:textColor="?attr/actionMenuTextColor" android:ellipsize="end" android:gravity="center_vertical" android:id="@+id/2131429424" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:drawablePadding="@dimen/2131165532" style="@style/2132083329"/>

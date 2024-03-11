@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C7515cxf xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="bottom" android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/2131429176" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginStart="@dimen/2131165461">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:textSize="18sp" android:layout_gravity="start|center_vertical" android:id="@+id/2131429170" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:autoSizeTextType="uniform" android:autoSizeMinTextSize="10sp" android:autoSizeMaxTextSize="18sp" style="@style/2132083294"/>
+    </LinearLayout>
+    <o.C1204Sr android:id="@+id/2131428811" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083042"/>
+    <o.C1204Sr android:id="@+id/2131428995" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083042"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/2131429183" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:layout_gravity="start|center_vertical" android:id="@+id/2131429167" style="@style/2132083432"/>
+        <o.C1204Sr android:textSize="14sp" android:ellipsize="end" android:layout_gravity="start|center_vertical" android:id="@+id/2131429182" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:maxLines="1" android:autoSizeTextType="uniform" android:autoSizeMinTextSize="10sp" android:autoSizeMaxTextSize="14sp" style="@style/2132083294"/>
+    </LinearLayout>
+    <o.C1204Sr android:textSize="@dimen/2131166617" android:ellipsize="end" android:layout_gravity="start|center_vertical" android:id="@+id/2131429181" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxWidth="@dimen/2131166448" android:text="" android:maxLines="2" android:autoSizeTextType="uniform" android:autoSizeMinTextSize="10sp" android:autoSizeMaxTextSize="@dimen/2131166617" style="@style/2132083293"/>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/2131429161" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:minHeight="36dp"/>
+</o.C7515cxf>

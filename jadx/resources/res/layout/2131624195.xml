@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netflix.mediaclient.android.widget.NetflixImageView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131428653" android:layout_width="0dp" android:layout_height="0dp" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="yes" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/2132084003"/>

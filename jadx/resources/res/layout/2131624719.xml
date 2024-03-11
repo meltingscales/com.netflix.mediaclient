@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C7636czu xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/2131166447">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginEnd="@dimen/2131165542">
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:layout_marginEnd="@dimen/2131165542">
+            <o.C1204Sr android:textSize="@dimen/2131166616" android:id="@+id/2131429360" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/2132019085" android:layout_weight="0.45" android:paddingEnd="@dimen/2131165461"/>
+            <o.C1203Sq android:id="@+id/2131429359" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017522" android:layout_marginEnd="@dimen/2131165461" style="@style/2132083218"/>
+        </LinearLayout>
+    </RelativeLayout>
+</o.C7636czu>

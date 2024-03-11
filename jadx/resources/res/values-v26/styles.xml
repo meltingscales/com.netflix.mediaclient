@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132082783" parent="@style/2132082885">
+    </style>
+    <style name="2132082790" parent="@style/2132082886">
+    </style>
+    <style name="2132082885" parent="@style/2132082879">
+        <item name="colorError">?android:attr/colorError</item>
+    </style>
+    <style name="2132082886" parent="@style/2132082880">
+        <item name="colorError">?android:attr/colorError</item>
+    </style>
+    <style name="2132082887" parent="@style/2132082897">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="2132082954" parent="@style/2132082887">
+    </style>
+    <style name="2132083234" parent="">
+        <item name="android:background">@drawable/2131234708</item>
+        <item name="android:tooltipText">@string/2132017508</item>
+    </style>
+    <style name="2132083235" parent="@style/2132083246">
+        <item name="android:background">@drawable/2131234708</item>
+        <item name="android:tooltipText">@string/2132017508</item>
+    </style>
+    <style name="2132083259" parent="@style/2132083262">
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxLength">4</item>
+        <item name="android:textCursorDrawable">@drawable/2131234597</item>
+        <item name="android:autofillHints">smsOTPCode{characterPosition}</item>
+        <item name="android:importantForAutofill">yes</item>
+    </style>
+    <style name="2132083262" parent="@style/2132083236">
+        <item name="android:textSize">@dimen/2131166415</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/2131234607</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:minWidth">@dimen/2131166414</item>
+        <item name="android:selectAllOnFocus">true</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:inputType">number</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:textCursorDrawable">@drawable/2131234606</item>
+        <item name="android:importantForAutofill">no</item>
+    </style>
+    <style name="2132083263" parent="@style/2132083236">
+        <item name="android:textSize">@dimen/2131166419</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/2131234494</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:minWidth">@dimen/2131166418</item>
+        <item name="android:selectAllOnFocus">true</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:inputType">number</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:textCursorDrawable">@drawable/2131234606</item>
+        <item name="android:importantForAutofill">no</item>
+    </style>
+    <style name="2132084084" parent="@android:style/Widget">
+        <item name="android:background">?attr/colorPrimary</item>
+        <item name="android:stateListAnimator">@animator/2130837506</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

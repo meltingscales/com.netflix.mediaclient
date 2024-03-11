@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131428508" android:layout_width="0dp" android:layout_height="0dp" android:layoutDirection="ltr" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131428502" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131428505" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <o.C1204Sr android:gravity="center" android:id="@+id/2131428504" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes"/>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131428506" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131428503" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

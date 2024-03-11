@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/2131231569" android:layout_width="match_parent" android:layout_height="@dimen/2131166707">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427587" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginTop="@dimen/2131165461" android:layout_marginBottom="@dimen/2131165461" android:scaleType="fitXY" android:adjustViewBounds="true" android:importantForAccessibility="no" android:layout_marginStart="@dimen/2131165461" app:foreground="@drawable/2131234706"/>
+</FrameLayout>

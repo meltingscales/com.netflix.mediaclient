@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="?android:attr/selectableItemBackground" android:paddingLeft="@dimen/2131166098" android:paddingTop="@dimen/2131166639" android:paddingRight="@dimen/2131166098" android:paddingBottom="@dimen/2131166639" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="@dimen/2131166345">
+    <FrameLayout android:id="@+id/2131427582" android:layout_width="@dimen/2131166346" android:layout_height="@dimen/2131166345" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center_vertical" android:layout_width="0dp" android:layout_height="10dp" android:layout_marginStart="@dimen/2131165461" android:layout_marginEnd="@dimen/2131166750" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/2131427620" app:layout_constraintStart_toEndOf="@+id/2131427582" app:layout_constraintTop_toTopOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131427620" android:layout_width="@dimen/2131166344" android:layout_height="@dimen/2131166344" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

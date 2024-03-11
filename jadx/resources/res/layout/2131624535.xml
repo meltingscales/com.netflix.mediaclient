@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131428848" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/2131428847" android:background="?attr/colorBackgroundFloating" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/2131428860" android:paddingLeft="24dp" android:paddingRight="12dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="24dp" android:paddingEnd="12dp">
+            <TextView android:textAppearance="@style/2132083697" android:ellipsize="end" android:gravity="start|center_vertical" android:id="@+id/2131428852" android:layout_width="0dp" android:layout_height="72dp" android:singleLine="true" android:layout_weight="1" android:importantForAccessibility="no" android:textAlignment="viewStart"/>
+            <ImageButton android:layout_gravity="center_vertical" android:id="@+id/2131428839" android:background="?attr/selectableItemBackgroundBorderless" android:layout_width="48dp" android:layout_height="48dp" android:src="?attr/mediaRouteCloseDrawable" android:contentDescription="@string/2132019503"/>
+        </LinearLayout>
+        <FrameLayout android:id="@+id/2131428845" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <FrameLayout android:id="@+id/2131428846" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="top" android:id="@+id/2131428812" android:background="?attr/colorPrimary" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:adjustViewBounds="true" android:contentDescription="@string/2132019501"/>
+            <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:splitMotionEvents="false">
+                <LinearLayout android:theme="?attr/mediaRouteControlPanelThemeOverlay" android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/2131428851" android:paddingTop="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <include android:id="@+id/2131428859" layout="@layout/2131624540"/>
+                    <View android:id="@+id/2131428840" android:visibility="gone" android:layout_width="match_parent" android:layout_height="8dp"/>
+                    <include android:id="@+id/2131428861" layout="@layout/2131624541"/>
+                </LinearLayout>
+                <androidx.mediarouter.app.OverlayListView android:theme="?attr/mediaRouteControlPanelThemeOverlay" android:scrollbarStyle="outsideOverlay" android:id="@+id/2131428862" android:paddingTop="@dimen/2131166141" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:splitMotionEvents="false"/>
+            </LinearLayout>
+        </FrameLayout>
+        <include layout="@layout/2131623944"/>
+    </LinearLayout>
+</FrameLayout>

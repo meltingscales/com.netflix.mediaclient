@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="center" android:id="@+id/2131427675" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017413" app:srcCompat="@drawable/2131231143"/>
+    <o.C1204Sr android:textAppearance="@style/2132083962" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center" android:id="@+id/2131427676" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:maxLines="1" android:layout_marginStart="@dimen/2131165461" android:layout_marginEnd="@dimen/2131165461" android:accessibilityHeading="true" app:autoSizeMaxTextSize="@dimen/2131166647" app:autoSizeMinTextSize="@dimen/2131166648" app:autoSizeTextType="uniform"/>
+</merge>

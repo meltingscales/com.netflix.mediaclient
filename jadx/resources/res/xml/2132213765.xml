@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:key="pref.screen">
+    <PreferenceCategory android:title="@string/2132019052" android:key="video.playback">
+        <com.netflix.mediaclient.ui.bandwidthsetting.BandwidthPreference android:icon="@drawable/2131234261" android:layout="@layout/2131624828" android:title="@string/2132018541" android:key="nf.bw_save" android:summary="@string/2132018540" android:positiveButtonText="@string/2132018955" android:negativeButtonText="@string/2132018546"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132019051" android:key="pref.notification">
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/2131234267" android:title="@string/2132019046" android:key="nf_notification_enable" android:defaultValue="false"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132019050" android:key="pref.network">
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/2131233151" android:title="@string/2132019045" android:key="pref.network.local_discovery" android:defaultValue="false"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132019048" android:key="pref.downloads">
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/2131234262" android:title="@string/2132019062" android:key="pref.downloads.wifi_only"/>
+        <Preference android:icon="@drawable/2131234346" android:title="@string/2132019060" android:key="pref.downloads.smart"/>
+        <ListPreference android:icon="@drawable/2131231686" android:layout="@layout/2131624828" android:title="@string/2132019753" android:key="pref.downloads.video_quality" android:summary="@string/2132019751" android:negativeButtonText="@string/2132018546"/>
+        <Preference android:icon="@drawable/2131234070" android:title="@string/2132019728" android:key="pref.downloads.storage_selector"/>
+        <Preference android:icon="@drawable/2131231650" android:title="@string/2132019055" android:key="pref.downloads.remove_all"/>
+        <com.netflix.mediaclient.ui.settings.StoragePreference android:layout="@layout/2131624851"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132018493">
+        <Preference android:icon="@drawable/2131231651" android:title="@string/2132018718" android:key="ui.about.device"/>
+        <Preference android:icon="@drawable/2131231593" android:title="@string/2132018494" android:key="ui.account" android:widgetLayout="@layout/2131624235"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132018719" android:key="ui.diagnosis">
+        <Preference android:icon="@drawable/2131231628" android:title="@string/2132018586" android:key="ui.diagnosis.network"/>
+        <Preference android:icon="@drawable/2131234303" android:title="@string/2132019017" android:key="ui.diagnosis.playback_specification"/>
+        <Preference android:icon="@drawable/2131234071" android:title="@string/2132018843" android:key="ui.diagnosis.speed.test" android:widgetLayout="@layout/2131624235"/>
+        <Preference android:icon="@drawable/2131231666" android:title="@string/2132017508" android:key="ui.diagnosis.download"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132019049" android:key="pref.group.legal">
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132018960" android:key="@string/2132020259"/>
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132019058" android:key="pref.privacy" android:widgetLayout="@layout/2131624235"/>
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132019056" android:key="pref.cfour.dnsspi" android:widgetLayout="@layout/2131624235"/>
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132019059" android:key="pref.privacy.cookies" android:widgetLayout="@layout/2131624235"/>
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132019044" android:key="pref.privacy.ad_choices" android:widgetLayout="@layout/2131624235"/>
+        <Preference android:icon="@drawable/2131234075" android:title="@string/2132019057" android:key="pref.terms" android:widgetLayout="@layout/2131624235"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Debug" android:key="pref.dogfood.debug-menu" app:isPreferenceVisible="false">
+        <com.netflix.mediaclient.ui.settings.DebugMenuPreference android:icon="@drawable/2131234339" android:title="Open Debug Menu" android:key="ui.debug-menu" android:widgetLayout="@layout/2131624067"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/2132019053" android:key="pref.qa.debugonly">
+        <Preference android:icon="@drawable/2131234339" android:key="ui.about.debug"/>
+        <Preference android:icon="@drawable/2131234339" android:title="@string/2132019125" android:key="ui.site" android:summary="@string/2132019126"/>
+        <Preference android:icon="@drawable/2131234339" android:title="@string/2132019077" android:key="ui.reset_bootloader" android:summary="@string/2132019078"/>
+        <Preference android:icon="@drawable/2131234339" android:title="@string/2132019074" android:key="ui.reset_license_sync_time" android:summary="@string/2132019075"/>
+        <Preference android:icon="@drawable/2131234339" android:title="@string/2132018537" android:key="ui.bugreport" android:summary="@string/2132018538"/>
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/2131234339" android:title="@string/2132019019" android:key="ui.playeroverlay" android:summary="@string/2132019020" android:defaultValue="false"/>
+        <ListPreference android:icon="@drawable/2131234339" android:layout="@layout/2131624828" android:title="@string/2132019109" android:key="ui.videoDecoderFormat" android:summary="@string/2132019111"/>
+        <ListPreference android:icon="@drawable/2131234339" android:layout="@layout/2131624828" android:title="@string/2132019110" android:key="ui.videoDecoderProfile" android:summary="@string/2132019112"/>
+        <EditTextPreference android:icon="@drawable/2131234339" android:title="@string/2132018534" android:key="ui.bootParams" android:summary="@string/2132018535"/>
+        <com.netflix.mediaclient.ui.settings.NetflixSwitchPreference android:icon="@drawable/2131234339" android:title="@string/2132018515" android:key="ui.allowpip" android:defaultValue="true"/>
+    </PreferenceCategory>
+</PreferenceScreen>

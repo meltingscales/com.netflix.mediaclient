@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center_horizontal" android:id="@+id/2131429216" android:layout_width="match_parent" android:layout_height="match_parent" android:maxWidth="@dimen/2131166481">
+    <o.C1174Rn android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/2131429215" android:paddingTop="12dp" android:paddingBottom="30dp" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="match_parent" android:layout_height="match_parent" app:bll_maxWidth="500dp">
+        <ScrollView android:id="@+id/2131429384" android:layout_width="match_parent" android:layout_height="0dp" android:fillViewport="false" android:layout_weight="1">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <FrameLayout android:id="@+id/2131427476" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017300">
+                    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427475" android:layout_width="108dp" android:layout_height="108dp" android:layout_margin="4dp" android:src="@color/2131099880" app:foreground="?android:attr/selectableItemBackground" app:roundedCornerRadius="4dp"/>
+                    <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="end|bottom" android:id="@+id/2131428059" android:background="@color/2131099892" android:padding="4dp" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/2131233288" android:tint="@color/2131099701" android:contentDescription="@null"/>
+                </FrameLayout>
+                <EditText android:textSize="16sp" android:id="@+id/2131429242" android:background="@color/2131099880" android:paddingTop="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:hint="@string/2132020099" android:maxLength="@integer/2131492941" android:inputType="textCapWords" android:textAlignment="viewStart" android:paddingStart="12dp" android:paddingEnd="12dp" android:layout_marginStart="60dp" android:layout_marginEnd="60dp" android:importantForAutofill="no"/>
+                <o.C5952cOl android:gravity="center_vertical" android:id="@+id/2131427432" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp"/>
+            </LinearLayout>
+        </ScrollView>
+    </o.C1174Rn>
+    <include layout="@layout/2131624439"/>
+</FrameLayout>

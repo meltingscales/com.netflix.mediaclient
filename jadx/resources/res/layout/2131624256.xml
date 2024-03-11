@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatEditText android:id="@+id/2131429517" style="@style/2132083264"/>
+        <androidx.appcompat.widget.AppCompatEditText android:id="@+id/2131429518" style="@style/2132083264"/>
+        <androidx.appcompat.widget.AppCompatEditText android:id="@+id/2131429519" style="@style/2132083264"/>
+        <androidx.appcompat.widget.AppCompatEditText android:id="@+id/2131429520" style="@style/2132083264"/>
+    </LinearLayout>
+    <o.C1204Sr android:id="@+id/2131429062" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/2132019928" style="@style/2132083524"/>
+</merge>

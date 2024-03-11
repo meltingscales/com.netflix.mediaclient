@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132082783" parent="@style/2132082888">
+    </style>
+    <style name="2132082790" parent="@style/2132082889">
+    </style>
+    <style name="2132082863" parent="@style/2132083855">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/2132084288</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="alertDialogStyle">@style/2132083126</item>
+        <item name="buttonBarButtonStyle">@style/2132084280</item>
+        <item name="buttonBarNegativeButtonStyle">@style/2132084280</item>
+        <item name="buttonBarNeutralButtonStyle">@style/2132084281</item>
+        <item name="buttonBarPositiveButtonStyle">@style/2132084280</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/2132083127</item>
+        <item name="materialAlertDialogButtonSpacerVisibility">@integer/2131492936</item>
+    </style>
+    <style name="2132082888" parent="@style/2132082885">
+        <item name="dialogCornerRadius">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="2132082889" parent="@style/2132082886">
+        <item name="dialogCornerRadius">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="2132083087" parent="">
+        <item name="android:textSize">@dimen/2131166617</item>
+        <item name="android:fontFamily">@font/2131296271</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontWeight">400</item>
+        <item name="android:lineHeight">20sp</item>
+    </style>
+    <style name="2132083088" parent="">
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:fontFamily">@font/2131296271</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:paddingStart">4dp</item>
+        <item name="android:paddingEnd">4dp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontWeight">500</item>
+        <item name="android:lineHeight">12sp</item>
+    </style>
+    <style name="2132083253" parent="@style/2132083179">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/2131101674</item>
+        <item name="android:maxWidth">@dimen/2131166558</item>
+        <item name="android:accessibilityHeading">true</item>
+    </style>
+    <style name="2132083339" parent="@style/2132083329">
+        <item name="android:textSize">@dimen/2131166643</item>
+        <item name="android:accessibilityHeading">true</item>
+    </style>
+    <style name="2132083360" parent="@style/2132083351">
+        <item name="android:textSize">@dimen/2131166643</item>
+        <item name="android:accessibilityHeading">true</item>
+    </style>
+    <style name="2132084223" parent="@android:style/Widget">
+        <item name="android:textAppearance">@style/2132083666</item>
+        <item name="android:minHeight">@dimen/2131165962</item>
+        <item name="android:paddingStart">@dimen/2131165966</item>
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="defaultMarginsEnabled">true</item>
+        <item name="defaultScrollFlagsEnabled">true</item>
+        <item name="elevation">@dimen/2131165961</item>
+        <item name="enforceMaterialTheme">true</item>
+        <item name="hideNavigationIcon">false</item>
+        <item name="materialThemeOverlay">@style/2132083909</item>
+        <item name="maxButtonHeight">@dimen/2131165962</item>
+        <item name="shapeAppearance">?attr/shapeAppearanceMediumComponent</item>
+        <item name="shapeAppearanceOverlay">@style/2132083491</item>
+    </style>
+</resources>

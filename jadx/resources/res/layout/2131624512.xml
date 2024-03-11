@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1208Sv xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429068" android:layout_width="match_parent" android:layout_height="wrap_content" app:pinBackground="@drawable/2131234494" app:pinEntryMargin="@dimen/2131166423" app:pinLength="4" app:pinStyle="@style/2132083263" app:shouldShowDash="false"/>

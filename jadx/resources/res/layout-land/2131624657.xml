@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/2131427626" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1185Ry android:layout_width="wrap_content" android:layout_height="wrap_content" android:animateLayoutChanges="true" app:fl_horizontalSpacing="8dp" app:fl_verticalSpacing="10dp">
+        <o.C1203Sq android:textSize="@dimen/2131166616" android:id="@+id/2131427633" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019978" style="@style/2132083204"/>
+        <o.C1203Sq android:textSize="@dimen/2131166616" android:id="@+id/2131429325" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019990" style="@style/2132083204"/>
+        <o.C1203Sq android:textSize="@dimen/2131166616" android:id="@+id/2131429847" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083218"/>
+    </o.C1185Ry>
+    <o.C1204Sr android:textSize="@dimen/2131166620" android:textColor="@color/2131099890" android:gravity="center" android:id="@+id/2131427603" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="36dp"/>
+</LinearLayout>

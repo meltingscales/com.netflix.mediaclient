@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="@drawable/2131234774">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@+id/2131428453" android:inflatedId="@+id/2131428453" android:layout_width="0dp" android:layout_height="0dp" android:layout_marginBottom="@dimen/2131165461" app:layout_constraintDimensionRatio="H,16:9" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+        <ViewStub android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165461" android:layout_marginEnd="@dimen/2131165461" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/2131234773" android:paddingLeft="12dp" android:paddingTop="12dp" android:paddingRight="12dp" android:paddingBottom="12dp" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="12dp">
+        <ViewStub android:id="@+id/2131427586" android:inflatedId="@+id/2131427586" android:layout_width="wrap_content" android:layout_height="@dimen/2131166706"/>
+        <ViewStub android:id="@+id/2131429751" android:inflatedId="@+id/2131429751" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ViewStub android:id="@+id/2131427923" android:inflatedId="@+id/2131427923" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639"/>
+        <ViewStub android:id="@+id/2131429652" android:inflatedId="@+id/2131429652" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639" android:layout_marginBottom="@dimen/2131165461"/>
+        <ViewStub android:id="@+id/2131429673" android:inflatedId="@+id/2131429673" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <androidx.constraintlayout.widget.ConstraintLayout android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165461">
+            <androidx.constraintlayout.helper.widget.Flow android:id="@+id/2131428237" android:layout_width="0dp" android:layout_height="wrap_content" app:constraint_referenced_ids="cta1,cta2" app:flow_horizontalAlign="2131429586" app:flow_horizontalBias="@dimen/2131166719" app:flow_horizontalGap="8dp" app:flow_horizontalStyle="?0x7f0b069f" app:flow_maxElementsWrap="2" app:flow_verticalBias="0" app:flow_verticalGap="8dp" app:flow_wrapMode="?0x7f0b015e" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/2131427827" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+            <ViewStub android:id="@+id/cta1" android:inflatedId="@+id/cta1" style="@style/2132083990"/>
+            <ViewStub android:id="@+id/cta2" android:inflatedId="@+id/cta2" style="@style/2132083992"/>
+            <ViewStub android:id="@+id/2131427827" android:inflatedId="@+id/2131427827" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="@+id/cta2" style="@style/2132083992"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</LinearLayout>

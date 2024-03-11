@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131428785" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <o.C1204Sr android:textColor="?attr/textColorWhiteAndInvertedForKids" android:ellipsize="end" android:id="@+id/2131428040" android:padding="0dp" android:layout_width="match_parent" android:layout_marginTop="0dp" android:maxLines="6" android:includeFontPadding="false" android:lineBreakWordStyle="1" style="@style/2132083341"/>
+</FrameLayout>

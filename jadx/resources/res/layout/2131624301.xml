@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427542" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:inflatedId="@+id/2131427480" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <ViewStub android:id="@+id/2131428424" android:inflatedId="@+id/2131428424" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165461" android:layout_marginStart="@dimen/2131165542" android:layout_marginEnd="@dimen/2131165542" app:layout_constraintBottom_toTopOf="@+id/2131429673" app:layout_constraintStart_toStartOf="0"/>
+    <ViewStub android:id="@+id/2131429673" android:inflatedId="@+id/2131429673" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165718" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/2131428203" android:background="@color/2131101779" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="end" android:id="@+id/2131427714" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131231637" android:contentDescription="@string/2132017200" app:tint="@color/2131099885"/>
+        <o.C1204Sr android:textSize="32sp" android:textStyle="bold" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:layout_marginBottom="16dp" android:text="@string/2132018165"/>
+    </LinearLayout>
+</ScrollView>

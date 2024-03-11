@@ -1,0 +1,23 @@
+package o;
+
+import o.C8992hF;
+
+/* loaded from: classes2.dex */
+public final class DO {
+    public static final e a = new e(null);
+    private static final C8992hF d = new C8992hF.a("CLCSImage").d();
+
+    /* loaded from: classes2.dex */
+    public static final class e {
+        public /* synthetic */ e(C8627dsp c8627dsp) {
+            this();
+        }
+
+        private e() {
+        }
+
+        public final C8992hF a() {
+            return DO.d;
+        }
+    }
+}

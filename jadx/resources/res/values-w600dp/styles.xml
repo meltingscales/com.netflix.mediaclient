@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083251" parent="">
+        <item name="android:layout_width">500dp</item>
+    </style>
+</resources>

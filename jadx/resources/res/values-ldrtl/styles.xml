@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083702" parent="@style/2132083701">
+        <item name="android:background">@drawable/2131231542</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:id="@+id/2131428461" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:labelFor="@+id/2131428058" style="@style/2132083544">
+            <o.C1204Sr android:textSize="16dp" android:gravity="center" android:id="@+id/2131428058" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="10dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429042" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/2131234369" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <o.C1204Sr android:id="@+id/2131428460" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/2132083524"/>
+    </LinearLayout>
+</merge>

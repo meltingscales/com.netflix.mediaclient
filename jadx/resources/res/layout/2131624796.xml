@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:padding="@dimen/2131165461" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:layout_gravity="center" android:id="@+id/2131429325" android:layout_width="wrap_content" android:layout_height="38dp" android:layout_margin="@dimen/2131165461" android:text="@string/2132019083" style="@style/2132083184"/>
+</FrameLayout>

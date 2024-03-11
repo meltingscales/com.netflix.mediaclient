@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1175Ro xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingTop="8dp" android:paddingBottom="@dimen/2131165289" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/2131165295" android:paddingEnd="@dimen/2131165295">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="@+id/2131428430" android:layout_width="125dp" android:layout_height="125dp" android:layout_marginTop="150dp" android:layout_marginBottom="@dimen/2131165542" app:layout_constraintBottom_toTopOf="@+id/2131429749" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131429749" android:layout_width="125dp" android:layout_height="32dp" android:layout_margin="8dp" app:layout_constraintBottom_toTopOf="@+id/2131428779" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131428779" android:layout_width="175dp" android:layout_height="24dp" android:layout_margin="8dp" app:layout_constraintBottom_toTopOf="@+id/2131427832" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/2131427832" android:layout_width="96dp" android:layout_height="36dp" android:layout_margin="8dp" android:layout_marginTop="@dimen/2131166130" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+            <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429017" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" app:roundedCornerRadius="@dimen/2131165294" app:roundingBorderColor="@color/2131101752" app:roundingBorderWidth="@dimen/2131165293"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</o.C1175Ro>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingTop="@dimen/2131165718" android:paddingBottom="@dimen/2131165718" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:layout_gravity="center" android:id="@+id/2131428215" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" app:autoSizeMaxTextSize="@dimen/2131166616" app:autoSizeMinTextSize="@dimen/2131166642" app:autoSizeTextType="uniform" style="?attr/greyButtonStyle"/>
+</FrameLayout>

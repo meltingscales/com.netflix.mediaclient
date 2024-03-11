@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <o.C1204Sr android:textSize="24sp" android:id="@+id/2131429736" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:lineSpacingExtra="2dp" style="@style/2132083179"/>
+    <o.C1204Sr android:textSize="18sp" android:id="@+id/2131429493" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:lineSpacingExtra="4dp"/>
+    <o.C1204Sr android:textSize="18sp" android:id="@+id/2131427473" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:lineSpacingExtra="4dp"/>
+    <o.C1204Sr android:textSize="18sp" android:id="@+id/2131427990" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:lineSpacingExtra="4dp"/>
+</LinearLayout>

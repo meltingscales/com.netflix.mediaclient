@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/2131428430" android:layout_width="125dp" android:layout_height="125dp" android:layout_marginTop="150dp" android:layout_marginBottom="@dimen/2131165542" android:layout_marginStart="@dimen/2131166130" app:layout_constraintBottom_toTopOf="@+id/2131429749" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131429749" android:layout_width="125dp" android:layout_height="32dp" android:layout_margin="8dp" android:layout_marginStart="@dimen/2131166130" app:layout_constraintBottom_toTopOf="@+id/2131428779" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131428779" android:layout_width="175dp" android:layout_height="24dp" android:layout_margin="8dp" android:layout_marginStart="@dimen/2131166130" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <ViewStub android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

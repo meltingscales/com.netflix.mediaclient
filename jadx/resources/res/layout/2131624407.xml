@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131429806" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" android:layoutDirection="ltr">
+    <o.C1204Sr android:id="@+id/2131429374" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <FrameLayout android:id="@+id/2131429808" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429373" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <LinearLayout android:gravity="center" android:id="@+id/2131428587" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <TextView android:gravity="center" android:id="@+id/2131429375" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="ltr" android:layoutDirection="ltr"/>
+            <TextView android:gravity="center" android:id="@+id/2131428108" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="ltr" android:layoutDirection="ltr"/>
+        </LinearLayout>
+    </FrameLayout>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429471" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132020262"/>
+    <o.C1204Sr android:id="@+id/2131429840" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <FrameLayout android:id="@+id/2131429810" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429838" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <o.C1204Sr android:gravity="center" android:id="@+id/2131429841" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</FrameLayout>

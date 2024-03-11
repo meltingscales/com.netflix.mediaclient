@@ -1,0 +1,21 @@
+package com.netflix.mediaclient.service.mdx.protocol.target;
+
+/* loaded from: classes3.dex */
+public enum TargetStateId {
+    STATE_INIT,
+    STATE_NOPAIR,
+    STATE_HASPAIR,
+    STATE_MDXPING,
+    STATE_SESSION_READY,
+    STATE_ACQUIRE_PAIR,
+    STATE_ACQUIRE_REMOTE_LOGIN_CONSENT,
+    STATE_VERIFY_REMOTE_LOGIN_PIN,
+    STATE_VERIFY_REGPAIR_PIN,
+    STATE_REMOTE_LOGIN,
+    STATE_REGPAIR,
+    STATE_START_SESSION,
+    STATE_HAND_SHAKE,
+    STATE_GET_CAPABILITIES,
+    STATE_GET_STATE,
+    STATE_SENDING_MESSAGE
+}

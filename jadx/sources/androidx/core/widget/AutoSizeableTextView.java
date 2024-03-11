@@ -1,0 +1,21 @@
+package androidx.core.widget;
+
+import android.os.Build;
+
+/* loaded from: classes2.dex */
+public interface AutoSizeableTextView {
+    @Deprecated
+    public static final boolean PLATFORM_SUPPORTS_AUTOSIZE;
+
+    static {
+        PLATFORM_SUPPORTS_AUTOSIZE = Build.VERSION.SDK_INT >= 27;
+    }
+
+    int getAutoSizeMinTextSize();
+
+    int getAutoSizeTextType();
+
+    void setAutoSizeTextTypeUniformWithConfiguration(int i, int i2, int i3, int i4);
+
+    void setAutoSizeTextTypeUniformWithPresetSizes(int[] iArr, int i);
+}

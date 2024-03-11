@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083971" parent="">
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="2132083972" parent="">
+        <item name="android:paddingTop">0dp</item>
+    </style>
+    <style name="2132083973" parent="">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

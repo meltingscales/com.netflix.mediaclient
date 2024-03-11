@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429383" android:background="@color/2131101647" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="?attr/netflixActionBarSize">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center_horizontal" android:paddingLeft="32dp" android:paddingRight="32dp" android:paddingBottom="@dimen/2131166568" style="@style/2132083006">
+            <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@+id/2131429922" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166546" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/2132083549"/>
+            <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@+id/2131429851" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429922" app:layout_goneMarginTop="10dp" style="@style/2132083530"/>
+            <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@+id/2131429155" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429851" app:layout_goneMarginTop="10dp" style="@style/2132083543"/>
+            <o.C1204Sr android:textSize="20sp" android:gravity="start" android:id="@+id/2131427773" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="10dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429155" style="@style/2132083538"/>
+            <o.C1204Sr android:id="@+id/2131427772" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="@string/2132017733" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427773" style="@style/2132083536"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/2131427383" android:background="@drawable/2131231412" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165380" app:layout_constraintTop_toBottomOf="@+id/2131427772">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingEnd="0dp" style="@style/2132083269">
+                    <o.C1204Sr android:id="@+id/2131429079" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_alignSelf="2131427669" style="@style/2132083270"/>
+                    <o.C1204Sr android:id="@+id/2131429083" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/2132083271"/>
+                </LinearLayout>
+                <View android:background="@color/2131099892" android:layout_width="match_parent" android:layout_height="1dp"/>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingEnd="0dp" style="@style/2132083269">
+                    <o.C1204Sr android:ellipsize="end" android:id="@+id/2131429452" android:layout_width="match_parent" android:layout_height="wrap_content" android:lines="1" style="@style/2132083270"/>
+                    <o.C1204Sr android:id="@+id/2131429856" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_alignSelf="2131427669" style="@style/2132083271"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/2131429785" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427383">
+                <com.netflix.mediaclient.acquisition.components.tou.TermsOfUseView android:id="@+id/2131429788" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/2131166549" android:layout_marginTop="10dp" android:layout_marginRight="@dimen/2131166549" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427383"/>
+                <com.netflix.mediaclient.acquisition.components.koreaLegal.KoreaCheckBoxesView android:id="@+id/2131428581" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427383"/>
+            </LinearLayout>
+            <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@+id/2131427771" android:padding="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429785" style="@style/2132083514"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <FrameLayout android:visibility="gone" android:layout_width="0dp" android:layout_height="0dp">
+            <WebView android:id="@+id/2131429924" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+    </FrameLayout>
+</ScrollView>

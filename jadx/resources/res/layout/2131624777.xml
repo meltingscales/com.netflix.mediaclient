@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="start" android:orientation="horizontal" android:id="@+id/2131429264" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166110" android:layout_marginEnd="@dimen/2131166111"/>

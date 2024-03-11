@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/2131230726">
+    <target android:name="0_0" android:animation="@drawable/2131230727"/>
+    <target android:name="0_1" android:animation="@drawable/2131230738"/>
+    <target android:name="0_2" android:animation="@drawable/2131230744"/>
+    <target android:name="0_3" android:animation="@drawable/2131230745"/>
+    <target android:name="0_4" android:animation="@drawable/2131230746"/>
+    <target android:name="0_5" android:animation="@drawable/2131230747"/>
+    <target android:name="1_0" android:animation="@drawable/2131230748"/>
+    <target android:name="1_1" android:animation="@drawable/2131230749"/>
+    <target android:name="1_2" android:animation="@drawable/2131230750"/>
+    <target android:name="1_3" android:animation="@drawable/2131230728"/>
+    <target android:name="1_4" android:animation="@drawable/2131230729"/>
+    <target android:name="1_5" android:animation="@drawable/2131230730"/>
+    <target android:name="2_0" android:animation="@drawable/2131230731"/>
+    <target android:name="2_1" android:animation="@drawable/2131230732"/>
+    <target android:name="2_2" android:animation="@drawable/2131230733"/>
+    <target android:name="2_3" android:animation="@drawable/2131230734"/>
+    <target android:name="2_4" android:animation="@drawable/2131230735"/>
+    <target android:name="2_5" android:animation="@drawable/2131230736"/>
+    <target android:name="3_0" android:animation="@drawable/2131230737"/>
+    <target android:name="3_1" android:animation="@drawable/2131230739"/>
+    <target android:name="3_2" android:animation="@drawable/2131230740"/>
+    <target android:name="3_3" android:animation="@drawable/2131230741"/>
+    <target android:name="3_4" android:animation="@drawable/2131230742"/>
+    <target android:name="3_5" android:animation="@drawable/2131230743"/>
+</animated-vector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/2131165336" android:paddingRight="@dimen/2131165336" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165335" android:layout_marginBottom="@dimen/2131165335">
+            <o.C1204Sr android:id="@+id/2131428432" android:text="@string/2132018540" android:layout_alignParentStart="true" android:labelFor="@+id/2131428433" style="@style/2132083365"/>
+            <androidx.appcompat.widget.SwitchCompat android:theme="@style/2132083447" android:id="@+id/2131428433" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_toEndOf="@+id/2131428432" android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+        <RadioGroup android:id="@+id/2131428434" android:layout_width="match_parent" android:layout_height="match_parent">
+            <RadioButton android:textAppearance="@style/2132083365" android:textColor="@color/2131101641" android:id="@+id/2131428436" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166098" android:layout_marginBottom="@dimen/2131166098" android:checked="false" android:text="@string/2132018543" android:paddingStart="@dimen/2131166130" android:paddingEnd="@dimen/2131166130" style="@style/2132083368"/>
+            <RadioButton android:textAppearance="@style/2132083365" android:textColor="@color/2131101641" android:id="@+id/2131428435" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166098" android:layout_marginBottom="@dimen/2131166098" android:checked="false" android:text="@string/2132018542" android:paddingStart="@dimen/2131166130" android:paddingEnd="@dimen/2131166130" style="@style/2132083368"/>
+            <RadioButton android:textAppearance="@style/2132083365" android:textColor="@color/2131101641" android:id="@+id/2131428437" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166098" android:layout_marginBottom="@dimen/2131166098" android:checked="false" android:text="@string/2132018544" android:paddingStart="@dimen/2131166130" android:paddingEnd="@dimen/2131166130" style="@style/2132083368"/>
+        </RadioGroup>
+    </LinearLayout>
+</ScrollView>

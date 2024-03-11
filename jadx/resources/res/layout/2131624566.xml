@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="top|center_horizontal" android:orientation="horizontal" android:id="@+id/2131428306" android:paddingLeft="@dimen/2131166205" android:paddingTop="@dimen/2131166205" android:paddingRight="@dimen/2131166205" android:paddingStart="@dimen/2131166205" android:paddingEnd="@dimen/2131166205" style="?attr/materialCalendarHeaderLayout">
+        <com.google.android.material.button.MaterialButton android:gravity="center" android:layout_gravity="top" android:id="@+id/2131427633" android:padding="12dp" android:layout_width="@dimen/2131166272" android:layout_height="@dimen/2131166272" android:insetTop="0dp" android:insetBottom="0dp" android:contentDescription="@string/2132019541" app:icon="@drawable/2131234475" style="?attr/materialCalendarHeaderCancelButton"/>
+        <FrameLayout android:id="@+id/2131428881" android:paddingLeft="@dimen/2131166210" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:paddingStart="@dimen/2131166210">
+            <TextView android:gravity="start|bottom" android:layout_gravity="start|top" android:id="@+id/2131428886" android:layout_width="match_parent" android:layout_height="wrap_content" app:firstBaselineToTopHeight="@dimen/2131166227" style="?attr/materialCalendarHeaderTitle"/>
+            <TextView android:gravity="start|bottom" android:layout_gravity="start|top" android:id="@+id/2131428880" android:paddingBottom="@dimen/2131166220" android:layout_width="match_parent" android:layout_height="wrap_content" app:firstBaselineToTopHeight="@dimen/2131166221" app:lineHeight="@dimen/2131166209" style="?attr/materialCalendarHeaderSelection"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="@integer/2131492920" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.google.android.material.button.MaterialButton android:layout_gravity="end|top" android:id="@+id/2131427774" android:layout_width="wrap_content" android:layout_height="@dimen/2131166272" android:text="@string/2132019560" android:contentDescription="@string/2132019560" style="?attr/materialCalendarHeaderConfirmButton"/>
+            <include layout="@layout/2131624569"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="@dimen/2131166206" style="?attr/materialCalendarHeaderDivider"/>
+</merge>

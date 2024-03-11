@@ -1,0 +1,22 @@
+package androidx.media3.exoplayer.upstream;
+
+/* loaded from: classes2.dex */
+public interface Allocator {
+
+    /* loaded from: classes2.dex */
+    public interface AllocationNode {
+        Allocation getAllocation();
+
+        AllocationNode next();
+    }
+
+    Allocation allocate();
+
+    int getIndividualAllocationLength();
+
+    void release(Allocation allocation);
+
+    void release(AllocationNode allocationNode);
+
+    void trim();
+}

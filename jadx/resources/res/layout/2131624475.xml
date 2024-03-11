@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="60dp">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <o.C1204Sr android:ellipsize="end" android:id="@+id/2131428744" android:singleLine="true" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165461" style="@style/2132083362"/>
+        <o.C1204Sr android:ellipsize="end" android:id="@+id/2131428743" android:singleLine="true" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165461" style="@style/2132083428"/>
+    </LinearLayout>
+</RelativeLayout>

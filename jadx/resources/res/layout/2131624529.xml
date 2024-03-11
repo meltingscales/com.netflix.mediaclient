@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="@dimen/2131166147">
+    <TextView android:textAppearance="?attr/mediaRouteHeaderTextAppearance" android:gravity="start" android:id="@+id/2131428850" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1" android:textAlignment="viewStart"/>
+    <RelativeLayout android:id="@+id/2131428831" android:layout_width="match_parent" android:layout_height="@dimen/2131166146">
+        <ImageButton android:id="@+id/2131428826" android:background="?attr/selectableItemBackgroundBorderless" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="16dp" android:layout_centerVertical="true" android:layout_marginStart="16dp"/>
+        <androidx.mediarouter.app.MediaRouteVolumeSlider android:id="@+id/2131428832" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:maxHeight="48dp" android:progressDrawable="@drawable/2131234505" android:minHeight="48dp" android:thumb="@drawable/2131234509" android:layout_toRightOf="@+id/2131428826" android:layout_centerVertical="true" android:contentDescription="@string/2132019513" android:layout_marginEnd="16dp" android:layout_toEndOf="@+id/2131428826" android:splitTrack="false"/>
+        <View android:id="@+id/2131428815" android:background="?attr/mediaRouteDividerColor" android:layout_width="match_parent" android:layout_height="1dp" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

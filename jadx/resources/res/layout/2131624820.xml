@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center" android:id="@+id/2131429368" android:background="@drawable/2131234698" android:visibility="gone" android:clickable="false" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginTop="3dp" android:importantForAccessibility="no"/>
+    <ImageButton android:layout_gravity="center" android:id="@+id/2131429369" android:padding="@dimen/2131166523" android:layout_width="@dimen/2131166521" android:layout_height="@dimen/2131166521" android:scaleType="fitCenter" android:importantForAccessibility="no"/>
+    <o.C1204Sr android:textSize="@dimen/2131166527" android:textColor="@color/2131101779" android:layout_gravity="center" android:id="@+id/2131429370" android:paddingTop="@dimen/2131166525" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layoutDirection="ltr"/>
+    <o.C1204Sr android:textSize="@dimen/2131166527" android:textColor="@color/2131101779" android:layout_gravity="center" android:id="@+id/2131429367" android:paddingTop="@dimen/2131166525" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:layoutDirection="ltr"/>
+</merge>

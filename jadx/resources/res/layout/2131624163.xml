@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:background="?android:attr/selectableItemBackground" android:paddingLeft="@dimen/2131166098" android:paddingTop="@dimen/2131166639" android:paddingRight="@dimen/2131166098" android:paddingBottom="@dimen/2131166639" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="@dimen/2131166393">
+    <FrameLayout android:layout_width="@dimen/2131166392" android:layout_height="@dimen/2131166393">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427582" android:clickable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:importantForAccessibility="no" style="@style/2132084003"/>
+        <ImageView android:layout_gravity="center" android:id="@+id/2131429095" android:layout_width="30dp" android:layout_height="30dp" android:src="@drawable/2131234302" android:importantForAccessibility="no"/>
+        <ProgressBar android:layout_gravity="bottom" android:id="@+id/2131429256" android:layout_width="match_parent" android:layout_height="3dp" android:max="100" android:indeterminateOnly="false" android:progressDrawable="@drawable/2131231414" android:importantForAccessibility="no" android:layoutDirection="ltr" style="?android:attr/progressBarStyleHorizontal"/>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingLeft="@dimen/2131165461" android:paddingRight="@dimen/2131165461" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <o.C1204Sr android:textColor="?attr/textColor90" android:ellipsize="end" android:id="@+id/2131429736" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textDirection="locale" android:textAlignment="gravity" style="@style/2132083352"/>
+        <o.C1204Sr android:textColor="?attr/secondaryTextColor" android:ellipsize="end" android:id="@+id/2131428456" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/2132083342"/>
+        <o.C1204Sr android:ellipsize="end" android:id="@+id/2131429596" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/2132083369"/>
+        <o.C1204Sr android:textColor="?attr/secondaryTextColor" android:id="@+id/2131429298" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018972" style="@style/2132083342"/>
+    </LinearLayout>
+    <FrameLayout android:id="@+id/2131427620" android:layout_width="40dp" android:layout_height="match_parent">
+        <com.netflix.mediaclient.ui.offline.DownloadButton android:layout_gravity="center" android:id="@+id/2131428007" android:layout_width="40dp" android:layout_height="40dp" app:showViewMyDownloads="false" style="@style/2132083234"/>
+        <androidx.appcompat.widget.AppCompatCheckBox android:theme="@style/2132083176" android:layout_gravity="center" android:id="@+id/2131427685" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</LinearLayout>

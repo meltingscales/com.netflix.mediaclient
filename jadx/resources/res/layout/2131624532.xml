@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="?attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="16dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="@dimen/2131166146">
+        <FrameLayout android:layout_width="24dp" android:layout_height="24dp">
+            <ImageView android:id="@+id/2131428827" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter"/>
+            <ProgressBar android:id="@+id/2131428829" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminate="true" style="?android:attr/progressBarStyle"/>
+        </FrameLayout>
+        <TextView android:textAppearance="?attr/mediaRouteBodyTextAppearance" android:gravity="start" android:id="@+id/2131428828" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_weight="1" android:textAlignment="viewStart"/>
+        <CheckBox android:id="@+id/2131428813" android:background="?attr/selectableItemBackgroundBorderless" android:layout_width="48dp" android:layout_height="48dp"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/2131428831" android:layout_width="match_parent" android:layout_height="@dimen/2131166146">
+        <ImageButton android:id="@+id/2131428826" android:background="?attr/selectableItemBackgroundBorderless" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="16dp" android:layout_centerVertical="true" android:layout_marginStart="16dp"/>
+        <androidx.mediarouter.app.MediaRouteVolumeSlider android:id="@+id/2131428832" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:maxHeight="48dp" android:progressDrawable="@drawable/2131234507" android:minHeight="48dp" android:thumb="@drawable/2131234509" android:layout_toRightOf="@+id/2131428826" android:layout_centerVertical="true" android:contentDescription="@string/2132019513" android:layout_marginEnd="16dp" android:layout_toEndOf="@+id/2131428826" android:splitTrack="false"/>
+        <View android:id="@+id/2131428815" android:background="?attr/mediaRouteDividerColor" android:layout_width="match_parent" android:layout_height="1dp" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

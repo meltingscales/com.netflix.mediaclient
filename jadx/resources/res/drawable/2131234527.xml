@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_checked="true" android:id="@+id/2131427688" android:drawable="@drawable/2131234540"/>
+    <item android:id="@+id/2131428455" android:drawable="@drawable/2131234544" app:state_indeterminate="true"/>
+    <item android:state_checked="false" android:id="@+id/2131429834" android:drawable="@android:color/transparent"/>
+    <transition android:drawable="@drawable/2131234529" android:toId="@+id/2131429834" android:fromId="@+id/2131427688"/>
+    <transition android:drawable="@drawable/2131234532" android:toId="@+id/2131427688" android:fromId="@+id/2131429834"/>
+    <transition android:drawable="@drawable/2131234531" android:toId="@+id/2131429834" android:fromId="@+id/2131428455"/>
+    <transition android:drawable="@drawable/2131234533" android:toId="@+id/2131428455" android:fromId="@+id/2131429834"/>
+    <transition android:drawable="@drawable/2131234530" android:toId="@+id/2131427688" android:fromId="@+id/2131428455"/>
+    <transition android:drawable="@drawable/2131234528" android:toId="@+id/2131428455" android:fromId="@+id/2131427688"/>
+</animated-selector>

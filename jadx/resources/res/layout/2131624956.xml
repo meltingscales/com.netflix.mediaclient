@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:gravity="center" android:layout_width="48dp" android:layout_height="48dp" android:src="@drawable/2131234500" android:scaleType="center"/>
+    <SeekBar android:layout_gravity="center" android:id="@+id/2131429921" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:minWidth="@dimen/2131166747" android:layout_weight="1" android:contentDescription="@string/2132017213" android:progressTint="@color/2131099759"/>
+</LinearLayout>

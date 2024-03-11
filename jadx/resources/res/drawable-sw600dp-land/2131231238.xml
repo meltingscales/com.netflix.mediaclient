@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/2131230751">
+    <target android:name="0_title" android:animation="@drawable/2131230752"/>
+    <target android:name="0_0" android:animation="@drawable/2131230763"/>
+    <target android:name="0_1" android:animation="@drawable/2131230769"/>
+    <target android:name="0_2" android:animation="@drawable/2131230770"/>
+    <target android:name="0_3" android:animation="@drawable/2131230771"/>
+    <target android:name="0_4" android:animation="@drawable/2131230772"/>
+    <target android:name="0_5" android:animation="@drawable/2131230773"/>
+    <target android:name="0_6" android:animation="@drawable/2131230774"/>
+    <target android:name="1_title" android:animation="@drawable/2131230775"/>
+    <target android:name="1_0" android:animation="@drawable/2131230753"/>
+    <target android:name="1_1" android:animation="@drawable/2131230754"/>
+    <target android:name="1_2" android:animation="@drawable/2131230755"/>
+    <target android:name="1_3" android:animation="@drawable/2131230756"/>
+    <target android:name="1_4" android:animation="@drawable/2131230757"/>
+    <target android:name="1_5" android:animation="@drawable/2131230758"/>
+    <target android:name="1_6" android:animation="@drawable/2131230759"/>
+    <target android:name="2_title" android:animation="@drawable/2131230760"/>
+    <target android:name="2_0" android:animation="@drawable/2131230761"/>
+    <target android:name="2_1" android:animation="@drawable/2131230762"/>
+    <target android:name="2_2" android:animation="@drawable/2131230764"/>
+    <target android:name="2_3" android:animation="@drawable/2131230765"/>
+    <target android:name="2_4" android:animation="@drawable/2131230766"/>
+    <target android:name="2_5" android:animation="@drawable/2131230767"/>
+    <target android:name="2_6" android:animation="@drawable/2131230768"/>
+</animated-vector>

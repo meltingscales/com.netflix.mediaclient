@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/2131428041" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="@+id/2131427936" android:background="?attr/dp_tabs_divider_color" android:layout_width="match_parent" android:layout_height="2dp"/>
+    <com.google.android.material.tabs.TabLayout android:textColor="@drawable/2131231449" android:id="@+id/2131429656" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/2131165461" android:layout_marginRight="@dimen/2131165461" app:tabGravity="2131429586" app:tabIndicatorColor="@color/2131099712" app:tabIndicatorGravity="?0x7f0b0988" app:tabIndicatorHeight="4dp" app:tabMode="?0x7f0b0809" app:tabTextAppearance="@style/2132083330"/>
+</LinearLayout>

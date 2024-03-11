@@ -19,15 +19,15 @@ TODO
 ## Commands
 
 ```
-adb shell pm path com.lenovo.anyshare.gps
+adb shell pm path com.netfix.mediaclient.gps
 
-adb pull /data/app/~~c5iUqd7bYj_VsUfXC1d38A==/com.lenovo.anyshare.gps-bxjbOFDVVNfky_2ak0ryiA==/base.apk
+adb pull /data/app/~~c5iUqd7bYj_VsUfXC1d38A==/com.netfix.mediaclient.gps-bxjbOFDVVNfky_2ak0ryiA==/base.apk
 
-mv base.apk com.lenovo.anyshare.gps.apk
+mv base.apk com.netfix.mediaclient.gps.apk
 
-~/go/bin/apkurlgrep -a com.lenovo.anyshare.gps.apk > apkurlgrep.txt
+~/go/bin/apkurlgrep -a com.netfix.mediaclient.gps.apk > apkurlgrep.txt
 
-apktool d com.lenovo.anyshare.gps.apk
+apktool d com.netfix.mediaclient.gps.apk
 
 echo "Run jadx-gui, open the APK, and save to "./jadx/"
 

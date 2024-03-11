@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="@+id/2131427579" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintHeight_max="@dimen/2131166610" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" app:layout_constraintWidth_max="@dimen/2131166611"/>
+    <com.airbnb.epoxy.EpoxyRecyclerView android:id="@+id/2131429091" android:visibility="gone" android:scrollbars="vertical" android:layout_width="0dp" android:layout_height="0dp" android:layout_margin="@dimen/2131166098" android:fadeScrollbars="false" app:layout_constraintBottom_toTopOf="@+id/2131428242" app:layout_constraintEnd_toEndOf="@+id/2131427579" app:layout_constraintStart_toStartOf="@+id/2131427579" app:layout_constraintTop_toTopOf="@+id/2131427579"/>
+    <ViewStub android:id="@+id/2131428242" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@+id/2131427579" app:layout_constraintEnd_toEndOf="@+id/2131427579" app:layout_constraintStart_toStartOf="@+id/2131427579"/>
+    <include layout="@layout/2131624439"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

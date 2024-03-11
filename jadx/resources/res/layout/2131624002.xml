@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center_horizontal" android:id="@+id/2131428418" android:clickable="false" android:duplicateParentState="true" android:layout_width="@dimen/2131165314" android:layout_height="@dimen/2131165314" android:layout_marginTop="@dimen/2131165313" android:layout_marginBottom="@dimen/2131165312"/>
+    <o.C1204Sr android:textSize="@dimen/2131165319" android:layout_gravity="bottom|center_horizontal" android:id="@+id/label" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165317" android:maxLines="1" android:paddingStart="@dimen/2131165318" android:paddingEnd="@dimen/2131165318"/>
+    <ViewStub android:id="@+id/2131427490" android:layout="@layout/2131624001" android:inflatedId="@+id/2131427489" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ViewStub android:id="@+id/2131427563" android:layout="@layout/2131624001" android:inflatedId="@+id/2131427562" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

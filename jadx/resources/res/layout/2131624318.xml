@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429207" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:textStyle="bold" android:ellipsize="end" android:id="@+id/2131428465" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:drawableStart="@drawable/2131232527" android:layout_marginStart="0dp" android:layout_marginEnd="0dp" style="@style/2132083208"/>
+    <o.C1203Sq android:textSize="16sp" android:textStyle="bold" android:ellipsize="end" android:id="@+id/2131428607" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020003" android:maxLines="1" android:drawableStart="@drawable/2131232719" android:layout_marginStart="0dp" android:layout_marginEnd="0dp" app:nb_iconColor="@color/2131101779" style="@style/2132083213"/>
+</FrameLayout>

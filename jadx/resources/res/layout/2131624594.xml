@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429289" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@+id/2131429290" android:layout_width="216dp" android:layout_height="wrap_content" android:adjustViewBounds="true" android:elevation="10dp"/>
+        <o.C1204Sr android:gravity="center_horizontal" android:id="@+id/2131429291" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166098" android:layout_marginEnd="@dimen/2131166098" style="@style/2132083336"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/2131429292" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166749">
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427834" android:visibility="gone" android:layout_width="70dp" android:layout_height="70dp" android:src="@drawable/2131234381" android:contentDescription="@string/2132017286" android:layout_marginStart="22dp" android:layout_marginEnd="22dp"/>
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427835" android:visibility="gone" android:layout_width="70dp" android:layout_height="70dp" android:src="@drawable/2131234384" android:contentDescription="@string/2132017287" android:layout_marginStart="22dp" android:layout_marginEnd="22dp"/>
+            <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427836" android:visibility="gone" android:layout_width="70dp" android:layout_height="70dp" android:src="@drawable/2131231659" android:contentDescription="@string/2132017287" android:layout_marginStart="22dp" android:layout_marginEnd="22dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/2131428651" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_margin="@dimen/2131165542"/>
+</FrameLayout>

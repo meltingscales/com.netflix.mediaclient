@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:padding="@dimen/2131165461" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/episodes_list_up_image_view" android:paddingTop="@dimen/2131165542" android:paddingBottom="@dimen/2131165542" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/2131234772" android:contentDescription="@string/2132017276" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165718" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <FrameLayout android:id="@+id/episodes_list_season_selector_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <androidx.constraintlayout.widget.Barrier android:id="@+id/2131428112" android:layout_width="wrap_content" android:layout_height="wrap_content" app:barrierDirection="?0x7f0b00e6" app:constraint_referenced_ids="episodes_list_up_image_view,episodes_list_season_selector_layout"/>
+    <FrameLayout android:id="@+id/2131428113" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintTop_toBottomOf="@+id/2131428112"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

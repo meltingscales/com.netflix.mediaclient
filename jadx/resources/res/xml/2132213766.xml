@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android" xmlns:motion="http://schemas.android.com/apk/res-auto">
+    <ConstraintSet android:id="@+id/2131429586"/>
+    <ConstraintSet android:id="@+id/2131428084"/>
+    <Transition android:id="@+id/2131427496" motion:constraintSetEnd="@+id/2131428084" motion:constraintSetStart="@+id/2131429586" motion:duration="400"/>
+</MotionScene>

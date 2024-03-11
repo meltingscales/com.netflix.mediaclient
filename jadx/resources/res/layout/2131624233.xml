@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131428127" style="@style/2132084394">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@+id/2131428125" android:padding="@dimen/2131165542" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:gravity="center" android:layout_gravity="center" android:id="@+id/2131428129" android:text="@string/2132018617" style="@style/2132083368"/>
+        <o.C1203Sq android:layout_gravity="center" android:id="@+id/2131428130" android:layout_margin="@dimen/2131165461" android:text="@string/2132019083" android:textAllCaps="false" style="@style/2132083184"/>
+    </LinearLayout>
+    <o.C1203Sq android:layout_gravity="bottom|center_horizontal" android:id="@+id/2131428128" android:visibility="gone" android:layout_marginBottom="48dp" android:text="@string/2132019719" android:textAllCaps="false" style="@style/2132083203"/>
+</FrameLayout>

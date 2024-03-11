@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@+id/2131427537" android:layout_centerVertical="true" style="@style/2132084394">
+        <o.C1215Tc android:layout_gravity="center" android:id="@+id/2131427536" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" app:yOffset="@dimen/2131165305"/>
+        <TextureView android:id="@+id/2131428808" android:visibility="gone" style="@style/2132084394"/>
+        <o.C1204Sr android:textColor="@color/2131101779" android:gravity="center" android:layout_gravity="bottom" android:id="@+id/2131427530" android:background="@color/2131099701" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/2131165300" android:paddingStart="16dp" android:paddingEnd="16dp"/>
+    </FrameLayout>
+    <View android:id="@+id/2131427535" android:background="@drawable/2131234753" android:layout_width="@dimen/2131165303" android:layout_height="match_parent" android:layout_alignParentStart="true"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/2131427527" android:layout_width="@dimen/2131165302" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:layout_marginStart="@dimen/2131165301" android:layout_alignParentStart="true">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131427540" android:layout_width="@dimen/2131165307" android:layout_height="0dp" android:layout_marginBottom="@dimen/2131165306" android:scaleType="fitXY" android:adjustViewBounds="true" android:layout_weight="1"/>
+        <o.C1204Sr android:id="@+id/2131427524" android:paddingTop="2dp" android:paddingBottom="0dp" android:visibility="gone" android:layout_marginBottom="12dp" style="@style/2132083432"/>
+        <o.C1204Sr android:ellipsize="end" android:id="@+id/2131427515" android:layout_marginBottom="9dp" android:maxLines="3" android:drawablePadding="@dimen/2131166639" style="@style/2132083330"/>
+        <o.C1204Sr android:textSize="@dimen/2131166628" android:textColor="@color/2131099700" android:ellipsize="end" android:id="@+id/2131427539" android:layout_width="@dimen/2131165304" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165542" android:maxLines="4"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/2131427516" style="@style/2132084398">
+            <o.C1203Sq android:id="@+id/2131427518" android:text="@string/2132019013" android:contentDescription="@string/2132019013" android:drawableStart="@drawable/2131234601" style="@style/2132083210"/>
+            <o.C1203Sq android:id="@+id/2131427520" android:visibility="gone" android:text="@string/2132019104" android:contentDescription="@string/2132019104" android:layout_marginEnd="@dimen/2131165461" style="@style/2132083220"/>
+            <o.C1206St android:id="@+id/2131427514" android:text="@string/2132018901" android:drawableStart="@drawable/2131234260" style="@style/2132083220"/>
+            <o.C1203Sq android:id="@+id/2131427526" android:visibility="gone" android:text="@string/2132018898" android:contentDescription="@string/2132018898" style="@style/2132083220"/>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

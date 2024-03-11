@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1206St xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:textSize="16sp" android:textStyle="bold" android:ellipsize="end" android:id="@+id/2131428917" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132018901" android:drawableStart="@drawable/2131234260" android:autoSizeTextType="uniform" android:autoSizeMinTextSize="@dimen/2131165630" app:nb_iconSize="@dimen/2131165629" style="?attr/secondaryButtonStyle"/>

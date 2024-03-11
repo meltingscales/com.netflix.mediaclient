@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="100dp">
+    <View android:id="@+id/2131428559" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</FrameLayout>

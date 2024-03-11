@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427970" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:id="@+id/2131428205" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/2132017374" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/2132082699"/>
+        <View android:id="@+id/2131428002" android:background="@color/2131099892" android:layout_width="0dp" android:layout_height="1dp" android:layout_marginTop="20dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131428205"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/2131428207" android:layout_width="0dp" android:layout_height="wrap_content" android:overScrollMode="never" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131428002"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

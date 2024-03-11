@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C7623czh xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:id="@+id/2131429160" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:id="@+id/2131427786" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false" android:layout_alignParentTop="true">
+        <o.C1215Tc android:id="@+id/2131429186" android:layout_width="match_parent" android:layout_height="match_parent" android:antialias="true" android:dither="true" android:scaleType="centerCrop" android:adjustViewBounds="true"/>
+    </LinearLayout>
+    <View android:background="@drawable/2131234618" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/2131166449"/>
+    <View android:background="@drawable/2131234617" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include android:layout_gravity="top|left" android:id="@+id/2131429158" android:visibility="visible" android:layout_width="@dimen/2131166438" android:layout_height="@dimen/2131166439" android:layout_marginTop="18dp" android:layout_marginStart="20dp" layout="@layout/2131624662"/>
+</o.C7623czh>

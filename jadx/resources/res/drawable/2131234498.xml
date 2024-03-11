@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:duration="42" android:drawable="@drawable/2131234185"/>
+    <item android:duration="42" android:drawable="@drawable/2131234187"/>
+    <item android:duration="42" android:drawable="@drawable/2131234189"/>
+    <item android:duration="42" android:drawable="@drawable/2131234191"/>
+    <item android:duration="42" android:drawable="@drawable/2131234193"/>
+    <item android:duration="42" android:drawable="@drawable/2131234195"/>
+    <item android:duration="42" android:drawable="@drawable/2131234197"/>
+    <item android:duration="42" android:drawable="@drawable/2131234199"/>
+    <item android:duration="42" android:drawable="@drawable/2131234201"/>
+    <item android:duration="42" android:drawable="@drawable/2131234203"/>
+    <item android:duration="42" android:drawable="@drawable/2131234205"/>
+    <item android:duration="42" android:drawable="@drawable/2131234207"/>
+    <item android:duration="42" android:drawable="@drawable/2131234209"/>
+    <item android:duration="42" android:drawable="@drawable/2131234211"/>
+    <item android:duration="42" android:drawable="@drawable/2131234213"/>
+    <item android:duration="42" android:drawable="@drawable/2131234215"/>
+    <item android:duration="42" android:drawable="@drawable/2131234217"/>
+    <item android:duration="42" android:drawable="@drawable/2131234219"/>
+    <item android:duration="42" android:drawable="@drawable/2131234221"/>
+    <item android:duration="42" android:drawable="@drawable/2131234223"/>
+    <item android:duration="42" android:drawable="@drawable/2131234225"/>
+    <item android:duration="42" android:drawable="@drawable/2131234227"/>
+    <item android:duration="42" android:drawable="@drawable/2131234229"/>
+    <item android:duration="42" android:drawable="@drawable/2131234231"/>
+    <item android:duration="42" android:drawable="@drawable/2131234233"/>
+    <item android:duration="42" android:drawable="@drawable/2131234235"/>
+    <item android:duration="42" android:drawable="@drawable/2131234237"/>
+    <item android:duration="42" android:drawable="@drawable/2131234239"/>
+    <item android:duration="42" android:drawable="@drawable/2131234241"/>
+    <item android:duration="42" android:drawable="@drawable/2131234243"/>
+    <item android:duration="42" android:drawable="@drawable/2131234245"/>
+</animation-list>

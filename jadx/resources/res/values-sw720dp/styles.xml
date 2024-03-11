@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083033" parent="">
+        <item name="layout_constraintWidth_max">600dp</item>
+    </style>
+    <style name="2132083169" parent="">
+        <item name="layout_constraintWidth_max">600dp</item>
+    </style>
+</resources>

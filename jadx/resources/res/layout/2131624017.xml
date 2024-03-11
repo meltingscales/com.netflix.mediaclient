@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1204Sr xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/2131166620" android:gravity="start" android:id="@+id/2131427658" android:padding="@dimen/2131166097" android:layout_width="match_parent" android:layout_height="wrap_content" android:drawablePadding="@dimen/2131165461" android:drawableStart="?attr/mdxIconDrawable" android:fontFamily="?attr/netflixRegularFont"/>

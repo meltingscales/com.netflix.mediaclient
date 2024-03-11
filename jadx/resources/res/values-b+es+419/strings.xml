@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="2132017458">Expandir hasta la mitad</string>
+    <string name="2132017638">Caracteres ingresados: %1$d de %2$d</string>
+    <string name="2132017639">Se excedió en %1$d el límite de caracteres de %2$d</string>
+    <string name="2132017645">Borrar texto</string>
+    <string name="2132017991">Error</string>
+    <string name="2132018123">Mostrar menú desplegable</string>
+    <string name="2132018480">Pestaña</string>
+    <string name="2132019392">Selecciona a.m. o p.m.</string>
+    <string name="2132019393">%1$s horas</string>
+    <string name="2132019394">Seleccione la hora.</string>
+    <string name="2132019395">%1$s en punto</string>
+    <string name="2132019396">Seleccionar minutos</string>
+    <string name="2132019397">%1$s minutos</string>
+    <string name="2132019406">a.m.</string>
+    <string name="2132019407">Cambia al modo de reloj para ingresar la hora.</string>
+    <string name="2132019408">Hora</string>
+    <string name="2132019409">Minuto</string>
+    <string name="2132019410">p.m.</string>
+    <string name="2132019411">Seleccionar la hora</string>
+    <string name="2132019412">Cambia al modo de entrada de texto para ingresar la hora.</string>
+    <string name="2132019533">Quitar %1$s</string>
+    <string name="2132019536">Cambiar al mes siguiente</string>
+    <string name="2132019537">Cambiar al mes anterior</string>
+    <string name="2132019541">Cancelar</string>
+    <string name="2132019542">Aceptar</string>
+    <string name="2132019546">Columna de días: %1$s</string>
+    <string name="2132019553">Navegar al año %1$s</string>
+    <string name="2132019560">Guardar</string>
+    <string name="2132019569">Cambiar al modo de entrada de calendario</string>
+    <string name="2132019570">Presiona para seleccionar un día</string>
+    <string name="2132019571">Cambiar al modo de entrada de texto</string>
+    <string name="2132019572">Presiona para seleccionar un año</string>
+    <string name="2132019581">Cancelar</string>
+    <string name="2132019582">Aceptar</string>
+    <string name="2132019902">Mostrar contraseña</string>
+</resources>

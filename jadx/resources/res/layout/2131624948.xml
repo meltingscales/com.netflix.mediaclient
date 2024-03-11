@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/2131231537" android:paddingTop="24dp" android:paddingBottom="32dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="40dp" android:paddingEnd="40dp">
+    <o.C1204Sr android:textSize="18sp" android:id="@+id/2131429874" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:textColor="@color/2131099878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="@string/2132017889"/>
+    <com.netflix.mediaclient.acquisition.components.form2.popupEditText.BirthMonthEditText android:id="@+id/2131427545" android:layout_width="250dp" android:layout_height="wrap_content"/>
+    <com.netflix.mediaclient.acquisition.components.form2.popupEditText.BirthDateEditText android:id="@+id/2131427544" android:layout_width="250dp" android:layout_height="wrap_content"/>
+    <com.netflix.mediaclient.acquisition.components.form2.ageVerify.BirthYearEditText android:id="@+id/2131427546" android:layout_width="250dp" android:layout_height="wrap_content" android:layout_marginTop="10dp"/>
+    <o.C1204Sr android:id="@+id/2131428003" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/2132017888" style="@style/2132083524"/>
+    <o.C1204Sr android:textColor="@color/2131099878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:text="@string/2132019930"/>
+    <com.netflix.mediaclient.acquisition.components.form2.maturityPinEntry.MaturityPinEntry android:id="@+id/2131428722" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6dp"/>
+    <com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton android:id="@+id/2131429871" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="@string/2132020845"/>
+</LinearLayout>

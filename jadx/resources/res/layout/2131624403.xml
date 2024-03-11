@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C5623cCg xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="@style/2132083764" android:id="@+id/2131428517" android:layout_width="94dp" android:layout_height="wrap_content" android:layoutDirection="locale" app:cardBackgroundColor="#ff7e1d" app:cardCornerRadius="8dp" app:cardElevation="5dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:textSize="14sp" android:textStyle="bold" android:textColor="#ffffff" android:gravity="center" android:layout_gravity="center" android:id="@+id/2131428520" android:padding="1dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="4dp" android:maxLines="2" android:lineSpacingExtra="0sp" android:textAlignment="center"/>
+        <View android:layout_gravity="center" android:id="@+id/2131428519" android:background="#feab6c" android:layout_width="68dp" android:layout_height="1dp"/>
+        <o.C1204Sr android:textSize="40sp" android:typeface="normal" android:textStyle="bold" android:textColor="#ffffff" android:gravity="center" android:layout_gravity="center" android:id="@+id/2131428518" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:maxLines="1" android:lineSpacingExtra="0sp" android:textAlignment="center"/>
+    </LinearLayout>
+</o.C5623cCg>

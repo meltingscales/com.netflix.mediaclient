@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083546" android:id="@+id/2131428461" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toEndOf="@+id/2131428050" android:layout_alignParentStart="true" style="@style/2132083544">
+        <EditText android:id="@+id/2131428058" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/2132018999" android:inputType="phone" android:paddingStart="@dimen/2131166575" style="@style/2132083520"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@+id/2131428050" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/2131428461" android:layout_alignBottom="@+id/2131428461" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:layout_gravity="center" android:id="@+id/2131428422" android:layout_width="24dp" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_marginStart="@dimen/2131166574"/>
+        <o.C1204Sr android:textSize="@dimen/2131166617" android:textColor="@color/2131101690" android:gravity="center_vertical" android:id="@+id/2131428051" android:layout_width="32dp" android:layout_height="match_parent" android:fontFamily="?attr/netflixBoldFont" android:layout_marginStart="4dp" android:layout_marginEnd="4dp"/>
+        <ImageView android:layout_gravity="center" android:id="@+id/2131428049" android:layout_width="10dp" android:layout_height="wrap_content" android:layout_marginRight="@dimen/2131166574" android:src="@drawable/2131234395" android:contentDescription="@null"/>
+    </LinearLayout>
+    <o.C1204Sr android:id="@+id/2131428460" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/2131428461" style="@style/2132083524"/>
+</merge>

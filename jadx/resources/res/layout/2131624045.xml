@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1204Sr xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/2131166616" android:textColor="@color/2131100311" android:id="@+id/2131427782" android:paddingLeft="@dimen/2131165718" android:paddingRight="@dimen/2131165718" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019293" android:fontFamily="?attr/netflixRegularFont" android:paddingHorizontal="@dimen/2131165718"/>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionGroup="true">
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="@+id/2131428377" android:layout_width="@dimen/2131166724" android:layout_height="wrap_content">
+        <ViewStub android:id="@+id/2131428389" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <o.bJB android:layout_gravity="center_horizontal" android:id="@+id/2131429307" android:clipToPadding="false" android:layout_width="@dimen/2131166727" android:layout_height="match_parent"/>
+</LinearLayout>

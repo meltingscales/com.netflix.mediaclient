@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429343" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewStub android:id="@+id/2131427584" android:inflatedId="@+id/2131427584" android:layout_width="0dp" android:layout_height="0dp" android:scaleType="centerCrop" android:adjustViewBounds="true" android:importantForAccessibility="no" app:layout_constraintDimensionRatio="W,9:16" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical" android:paddingLeft="@dimen/2131166098" android:paddingRight="@dimen/2131166098" android:layout_width="0dp" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/2131166098" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427584">
+        <ViewStub android:gravity="center" android:id="@+id/2131428394" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/2132083335"/>
+        <ViewStub android:gravity="center" android:id="@+id/2131429639" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/2132083360"/>
+        <ViewStub android:gravity="center" android:id="@+id/2131429653" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/2132083362"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.constraintlayout.widget.ConstraintLayout>

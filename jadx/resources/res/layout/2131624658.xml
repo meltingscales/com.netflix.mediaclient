@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ScrollView android:id="@+id/2131429105" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/2131166541" android:layout_marginEnd="@dimen/2131166541">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/2131429104" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <o.C1203Sq android:id="@+id/2131428398" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132018674" style="@style/2132083092"/>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

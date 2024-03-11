@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131429114" android:background="?attr/selectableItemBackgroundBorderless" android:visibility="invisible" android:layout_width="@dimen/2131166439" android:layout_height="@dimen/2131166438" android:src="@drawable/2131234305" android:contentDescription="@string/2132017221" android:accessibilityTraversalAfter="@+id/2131429146"/>

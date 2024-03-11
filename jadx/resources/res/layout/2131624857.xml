@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <o.C1204Sr android:id="@+id/2131429694" android:background="@drawable/2131234616" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:paddingStart="@dimen/2131166639" android:paddingEnd="@dimen/2131166639" style="@style/2132083334"/>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429288" android:visibility="gone" android:layout_width="@dimen/2131166432" android:layout_height="@dimen/2131166432" android:scaleType="fitCenter"/>
+</merge>

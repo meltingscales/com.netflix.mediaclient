@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/2132084394">
+    <include layout="@layout/2131624233"/>
+    <com.netflix.android.widgetry.lolomo.LolomoRecyclerView android:id="@+id/2131429008" android:paddingBottom="@dimen/2131165737" android:clipToPadding="false" style="@style/2132084394"/>
+</FrameLayout>

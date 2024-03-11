@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center" android:paddingBottom="@dimen/2131165718" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:layout_gravity="bottom|center_horizontal" android:id="@+id/2131429904" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8dp" android:text="@string/2132019719" android:layout_marginStart="8dp" android:layout_marginEnd="8dp" style="@style/2132083203"/>
+</FrameLayout>

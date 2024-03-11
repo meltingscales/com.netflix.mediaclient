@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/2131429920" android:paddingLeft="24dp" android:paddingRight="60dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="@dimen/2131166138" android:paddingStart="24dp" android:paddingEnd="60dp">
+        <TextView android:textAppearance="@style/2132083696" android:gravity="start" android:id="@+id/2131428852" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart"/>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/2131428863" android:layout_width="@dimen/2131166139" android:layout_height="@dimen/2131166139" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:src="?attr/mediaRouteAudioTrackDrawable" android:scaleType="fitCenter"/>
+            <androidx.mediarouter.app.MediaRouteVolumeSlider android:id="@+id/2131428864" android:layout_width="match_parent" android:layout_height="40dp" android:maxHeight="40dp" android:minHeight="40dp" android:contentDescription="@string/2132019513"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

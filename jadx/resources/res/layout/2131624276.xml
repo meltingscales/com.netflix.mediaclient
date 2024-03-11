@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131429532" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionGroup="true">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/2131165461" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <o.C1204Sr android:id="@+id/2131429524" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132019134" style="@style/2132083339"/>
+        <o.C1204Sr android:id="@+id/2131429523" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019133" style="@style/2132083427"/>
+        <o.C1204Sr android:id="@+id/2131429528" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132019138" style="@style/2132083339"/>
+        <o.C1204Sr android:id="@+id/2131429525" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019135" android:paddingStart="@dimen/2131165542" style="@style/2132083427"/>
+        <o.C1204Sr android:id="@+id/2131429526" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639" android:text="@string/2132019136" android:paddingStart="@dimen/2131165542" style="@style/2132083427"/>
+        <o.C1204Sr android:id="@+id/2131429527" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639" android:text="@string/2132019137" android:paddingStart="@dimen/2131165542" style="@style/2132083427"/>
+        <o.C1204Sr android:id="@+id/2131429530" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132019140" style="@style/2132083339"/>
+        <o.C1204Sr android:id="@+id/2131429529" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019139" style="@style/2132083427"/>
+        <o.C1204Sr android:id="@+id/2131429531" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132019142" style="@style/2132083339"/>
+        <o.C1204Sr android:paddingBottom="@dimen/2131165542" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132019141" style="@style/2132083427"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="2131165186">48dp</dimen>
+    <dimen name="2131165303">200dp</dimen>
+    <dimen name="2131165440">100dp</dimen>
+    <dimen name="2131165441">100dp</dimen>
+    <dimen name="2131165445">10dp</dimen>
+    <dimen name="2131165463">350dp</dimen>
+    <dimen name="2131165680">@dimen/2131166748</dimen>
+    <dimen name="2131165681">620dp</dimen>
+    <dimen name="2131165730">96dp</dimen>
+    <dimen name="2131166067">450dp</dimen>
+    <dimen name="2131166068">600dp</dimen>
+    <dimen name="2131166138">61dp</dimen>
+    <dimen name="2131166139">18dp</dimen>
+    <dimen name="2131166140">132dp</dimen>
+    <dimen name="2131166148">24dp</dimen>
+    <dimen name="2131166151">24dp</dimen>
+    <dimen name="2131166202">20dp</dimen>
+    <dimen name="2131166204">4dp</dimen>
+    <dimen name="2131166208">96dp</dimen>
+    <dimen name="2131166211">0dp</dimen>
+    <dimen name="2131166212">0dp</dimen>
+    <dimen name="2131166213">104dp</dimen>
+    <dimen name="2131166221">68dp</dimen>
+    <dimen name="2131166224">64dp</dimen>
+    <dimen name="2131166226">24dp</dimen>
+    <dimen name="2131166227">32dp</dimen>
+    <dimen name="2131166608">460dp</dimen>
+    <dimen name="2131166724">@dimen/2131166748</dimen>
+    <dimen name="2131166727">420dp</dimen>
+</resources>

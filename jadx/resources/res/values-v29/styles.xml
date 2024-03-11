@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132084389" parent="@style/2132083810">
+        <item name="android:textColorPrimary">@color/2131101600</item>
+        <item name="android:textColorSecondary">@color/2131101628</item>
+        <item name="android:textColorTertiary">@color/2131101711</item>
+        <item name="android:statusBarColor">@color/2131099701</item>
+        <item name="android:navigationBarColor">@color/2131099707</item>
+        <item name="android:colorEdgeEffect">@color/2131099683</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="aroRibbonCategoryTextColor">@color/2131101779</item>
+        <item name="aroRibbonPillsTextColor">@color/2131101756</item>
+        <item name="aroRibbonSubCategoryTextColor">@color/2131101756</item>
+        <item name="bottomNavBarBackgroundColor">@color/2131099707</item>
+        <item name="bottomNavBarForegroundColor">@color/2131099708</item>
+        <item name="buttonTabBackground">@color/2131099701</item>
+        <item name="clickableTagBtnColor">#b8292929</item>
+        <item name="clickableTagBtnTextColor">@color/2131101779</item>
+        <item name="colorAccent">@color/2131099681</item>
+        <item name="colorPrimary">@color/2131099685</item>
+        <item name="colorPrimaryDark">@color/2131099686</item>
+        <item name="darkIconColor">@color/2131099701</item>
+        <item name="lightIconColor">@color/2131101779</item>
+        <item name="netflixBoldFont">@font/2131296264</item>
+        <item name="netflixLightFont">@font/2131296266</item>
+        <item name="netflixMediumFont">@font/2131296268</item>
+        <item name="netflixRegularFont">@font/2131296271</item>
+        <item name="nonClickableTagTextColor">@color/2131099892</item>
+        <item name="primaryButtonStyle">@style/2132083208</item>
+        <item name="primarySmallButtonStyle">@style/2132083214</item>
+        <item name="primarySmallPillButtonStyle">@style/2132083217</item>
+        <item name="sampleAppTabTextColor">@style/2132083559</item>
+        <item name="secondaryButtonStyle">@style/2132083219</item>
+        <item name="secondarySmallButtonStyle">@style/2132083225</item>
+        <item name="separatorColor">@color/2131101752</item>
+        <item name="textColor10">@color/2131099879</item>
+        <item name="textColor20">@color/2131099882</item>
+        <item name="textColor30">@color/2131099884</item>
+        <item name="textColor40">@color/2131099885</item>
+        <item name="textColor45">@color/2131099886</item>
+        <item name="textColor50">@color/2131099887</item>
+        <item name="textColor55">@color/2131099888</item>
+        <item name="textColor60">@color/2131099889</item>
+        <item name="textColor70">@color/2131099890</item>
+        <item name="textColor80">@color/2131099891</item>
+        <item name="textColor90">@color/2131099892</item>
+        <item name="toolbarBackground">@color/2131099701</item>
+    </style>
+</resources>

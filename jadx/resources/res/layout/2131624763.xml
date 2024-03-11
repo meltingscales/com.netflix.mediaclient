@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatCheckBox xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:id="@+id/2131427683" android:paddingTop="@dimen/2131165542" android:paddingBottom="@dimen/2131165542" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165461" style="@style/2132083365"/>

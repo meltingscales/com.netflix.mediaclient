@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/2131429089" android:paddingBottom="@dimen/2131165461" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/2131165718" android:paddingEnd="@dimen/2131165718">
+    <ViewStub android:id="@+id/2131428241" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165461"/>
+    <ViewStub android:id="@+id/2131428244" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639"/>
+    <ViewStub android:id="@+id/2131428240" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166639"/>
+    <ViewStub android:id="@+id/2131428245" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165461"/>
+</LinearLayout>

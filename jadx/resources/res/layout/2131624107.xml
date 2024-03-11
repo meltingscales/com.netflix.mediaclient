@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131429879" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/2131165542" android:paddingStart="@dimen/2131166130" android:paddingEnd="@dimen/2131166130" app:alignContent="?0x7f0b0386" app:flexDirection="2131429345" app:flexWrap="?0x7f0b0a35" app:justifyContent="?0x7f0b0387"/>

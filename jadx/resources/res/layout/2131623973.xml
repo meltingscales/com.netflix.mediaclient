@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131429026" android:background="@color/2131101737" style="@style/2132084394">
+    <ProgressBar android:layout_gravity="center" android:id="@+id/2131428652" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="true" style="?android:attr/progressBarStyle"/>
+</FrameLayout>

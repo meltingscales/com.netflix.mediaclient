@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083179" parent="">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="2132083242" parent="">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

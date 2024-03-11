@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="start|bottom" android:id="@+id/2131428880" android:paddingBottom="@dimen/2131166220" app:autoSizeTextType="uniform" app:firstBaselineToTopHeight="@dimen/2131166224" app:lineHeight="@dimen/2131166209" style="?attr/materialCalendarHeaderSelection"/>

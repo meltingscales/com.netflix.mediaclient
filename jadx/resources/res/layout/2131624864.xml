@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427986" android:background="@color/2131101733" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/2131429476" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:transitionGroup="true" android:elevation="@dimen/2131166676" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <com.airbnb.lottie.LottieAnimationView android:layout_gravity="top" android:id="@+id/2131428691" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:lottie_fileName="lottiefiles/connecting.json" app:lottie_loop="true"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/2131429307" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131428377" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="@dimen/2131166676" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+        <ViewStub android:id="@+id/2131428389" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/2131428239" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/2131166670" android:elevation="@dimen/2131166676" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <ViewStub android:id="@+id/2131428242" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

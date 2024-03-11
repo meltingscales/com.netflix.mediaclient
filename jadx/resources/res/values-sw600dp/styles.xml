@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083006" parent="">
+        <item name="android:layout_width">500dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+    <style name="2132083007" parent="@style/2132083539">
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083033" parent="">
+        <item name="layout_constraintWidth_max">500dp</item>
+    </style>
+    <style name="2132083169" parent="">
+        <item name="layout_constraintWidth_max">500dp</item>
+    </style>
+    <style name="2132083507" parent="">
+        <item name="android:textSize">@dimen/2131166571</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/2131101690</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083509" parent="">
+        <item name="android:textSize">@dimen/2131166579</item>
+        <item name="android:textColor">@color/2131101691</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083510" parent="">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="2132083511" parent="@style/2132083236">
+        <item name="android:textSize">@dimen/2131166580</item>
+        <item name="android:textColor">@color/2131101690</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="2132083541" parent="@style/2132083540">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="2132083548" parent="">
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">400dp</item>
+    </style>
+    <style name="2132084092" parent="@style/2132082956">
+        <item name="tabGravity">2131427669</item>
+        <item name="tabMode">?0x7f0b0381</item>
+    </style>
+</resources>

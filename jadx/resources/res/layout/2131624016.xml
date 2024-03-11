@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131427719" android:padding="@dimen/2131166098" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no">
+    <ImageButton android:layout_gravity="center_vertical" android:id="@+id/close_button" android:background="@drawable/2131234489" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/2132017200"/>
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:transitionGroup="true" style="@style/2132084394">
+    <o.C9909yq android:id="@+id/2131428307" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/2131624439"/>
+    <ViewStub android:id="@+id/2131428077" android:layout="@layout/2131624167" android:inflatedId="@+id/2131428083" style="@style/2132084394"/>
+</FrameLayout>

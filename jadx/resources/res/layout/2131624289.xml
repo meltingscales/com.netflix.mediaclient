@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/2131101647" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="?attr/netflixActionBarSize">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxWidth="@dimen/2131166558" android:layout_marginStart="@dimen/2131166556" android:layout_marginEnd="@dimen/2131166556">
+        <com.netflix.mediaclient.acquisition.components.banner.SignupBannerView android:id="@+id/2131429851" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166568" android:layout_marginBottom="@dimen/2131166546" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/2132083530"/>
+        <com.netflix.mediaclient.acquisition.components.heading.SignupHeadingView android:id="@+id/2131429494" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166568" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429851"/>
+        <o.C1204Sr android:id="@+id/2131428343" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/2132018549" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131429494" style="@style/2132083541"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <FrameLayout android:layout_gravity="center" android:background="@color/2131101669" android:padding="4dp" android:layout_marginTop="20dp" style="@style/2132083548">
+        <include android:id="@+id/2131429926" layout="@layout/2131624957"/>
+    </FrameLayout>
+</LinearLayout>

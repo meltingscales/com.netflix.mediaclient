@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2132083375" parent="@style/2132083368">
+        <item name="android:textSize">@dimen/2131166616</item>
+    </style>
+</resources>

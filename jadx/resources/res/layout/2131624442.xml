@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@+id/2131428673" android:visibility="visible" android:src="@drawable/2131234571" android:scaleType="center" android:layout_centerInParent="true" android:contentDescription="@string/2132017207" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/2132084398"/>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/2131428652" android:padding="@dimen/2131165542" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="29dp" android:indeterminate="true" android:indeterminateOnly="true" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0.5" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131428673" style="?android:attr/progressBarStyle"/>
+</merge>

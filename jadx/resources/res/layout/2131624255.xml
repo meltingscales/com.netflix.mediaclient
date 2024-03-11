@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.google.android.material.textfield.TextInputLayout android:theme="@style/2132083546" android:id="@+id/2131428461" android:layout_width="match_parent" android:layout_height="wrap_content" android:labelFor="@+id/2131428058" style="@style/2132083544">
+        <EditText android:id="@+id/2131428058" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="number" style="@style/2132083520"/>
+    </com.google.android.material.textfield.TextInputLayout>
+</merge>

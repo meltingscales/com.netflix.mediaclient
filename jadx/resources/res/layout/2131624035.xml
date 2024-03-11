@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.netflix.mediaclient.acquisition.components.signupButton.NetflixSignupButton xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131429629" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131166749" android:layout_marginStart="@dimen/2131165542" android:layout_marginEnd="@dimen/2131165542"/>

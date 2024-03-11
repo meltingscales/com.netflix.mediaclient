@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427501" android:background="?attr/selectionListBackground" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" android:layout_marginStart="@dimen/2131165270">
+    <androidx.recyclerview.widget.RecyclerView android:layout_gravity="bottom" android:id="@+id/2131428767" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:overScrollMode="never" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <ViewStub android:layout_gravity="center" android:id="@+id/2131428763" android:layout="@layout/2131624489" android:inflatedId="@+id/2131428764" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <ViewStub android:layout_gravity="bottom" android:id="@+id/2131427573" android:layout="@layout/2131624486" android:inflatedId="@+id/2131427572" android:layout_width="match_parent" android:layout_height="@dimen/2131166104"/>
+    <ViewStub android:layout_gravity="bottom|center_horizontal" android:id="@+id/2131427718" android:visibility="gone" android:layout="@layout/2131624485" android:inflatedId="@+id/close_button" android:layout_width="@dimen/2131165381" android:layout_height="@dimen/2131165381"/>
+</FrameLayout>

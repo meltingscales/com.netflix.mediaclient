@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:id="@+id/2131429762" android:layout_width="wrap_content" android:layout_height="wrap_content" android:elevation="@dimen/2131166652">
+    <ImageView android:layout_gravity="top" android:id="@+id/2131429744" android:paddingTop="@dimen/2131166098" android:paddingBottom="@dimen/2131165461" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:minWidth="@dimen/2131166655" android:importantForAccessibility="no" android:paddingStart="@dimen/2131165461" android:paddingEnd="@dimen/2131165461"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/2131429736" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <o.C1204Sr android:textSize="20sp" android:textStyle="bold" android:textColor="@android:color/white" android:id="@+id/2131429751" android:padding="@dimen/2131165461" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="@dimen/2131166655" android:textAllCaps="true" style="@style/2132083179"/>
+        <o.C1204Sr android:textSize="18sp" android:textColor="@android:color/black" android:gravity="center_vertical" android:id="@+id/2131428770" android:padding="@dimen/2131166659" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/2132083240"/>
+    </LinearLayout>
+</LinearLayout>

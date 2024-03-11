@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427806" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:paddingTop="?attr/netflixActionBarSize" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+        <FrameLayout android:layout_gravity="center" android:id="@+id/2131427964" android:padding="@dimen/2131165461" android:layout_weight="1" style="@style/2132084394">
+            <include layout="@layout/2131624137"/>
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="center" android:id="@+id/2131427958" android:paddingTop="@dimen/2131165461" android:paddingBottom="@dimen/2131165461" android:layout_weight="1" android:paddingStart="@dimen/2131165542" android:paddingEnd="@dimen/2131165542" style="@style/2132084394">
+            <include layout="@layout/2131624133"/>
+        </FrameLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

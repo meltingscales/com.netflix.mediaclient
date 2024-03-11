@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/2131234708" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="top|center_horizontal" android:id="@+id/2131428009" android:paddingBottom="@dimen/2131165330" android:layout_width="@dimen/2131166741" android:layout_height="@dimen/2131166741">
+            <com.netflix.android.widgetry.widget.tabs.BadgeView android:layout_gravity="bottom|center_horizontal" android:id="@+id/2131428008" android:layout_width="@dimen/2131166387" android:layout_height="@dimen/2131166387" android:scaleType="fitXY"/>
+        </FrameLayout>
+        <o.C1204Sr android:textSize="@dimen/2131165534" android:textColor="?android:attr/textColorSecondary" android:gravity="top|center_horizontal" android:layout_gravity="top|center_horizontal" android:id="@+id/2131428010" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132017508" android:lines="2" android:paddingStart="@dimen/2131166639" android:paddingEnd="@dimen/2131166639" android:hyphenationFrequency="4" style="@style/2132083361"/>
+    </LinearLayout>
+</merge>

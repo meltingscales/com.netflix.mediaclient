@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131427806" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" app:statusBarBackground="@null">
+    <FrameLayout android:id="@+id/2131429773" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:id="@+id/2131428303" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+            <FrameLayout android:id="@+id/2131429208" android:layout_weight="1" style="@style/2132084394"/>
+        </LinearLayout>
+        <include android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/2131624848"/>
+    </FrameLayout>
+    <include android:layout_gravity="end|bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/2131624250"/>
+    <o.C1184Rx android:id="@+id/2131427974" android:layout_width="match_parent" android:layout_height="match_parent" android:elevation="@dimen/2131165539"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

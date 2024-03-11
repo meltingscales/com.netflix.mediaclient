@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/2131429133" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ImageButton android:gravity="center" android:id="@+id/2131428655" android:background="?attr/selectableItemBackgroundBorderless" android:visibility="visible" android:layout_width="@dimen/2131165723" android:layout_height="@dimen/2131165723" android:src="@drawable/2131231383" android:contentDescription="@string/2132017332"/>
+    <o.C1203Sq android:id="@+id/2131429839" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="48dp" android:text="@string/2132019234" android:contentDescription="@string/2132017333" android:drawableStart="@drawable/2131234062" style="?attr/primarySmallPillButtonStyle"/>
+    <o.C1204Sr android:textSize="16sp" android:textStyle="bold" android:textColor="@color/2131101779" android:gravity="fill" android:layout_width="wrap_content" android:layout_height="28dp" android:text="@string/2132018858" android:includeFontPadding="false" style="@style/2132083202"/>
+    <o.C1204Sr android:textSize="10sp" android:textColor="#b3b3b3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/2132019175" android:importantForAccessibility="no"/>
+</LinearLayout>

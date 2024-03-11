@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="100dp" android:width="100dp" android:viewportWidth="114" android:viewportHeight="114">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_0_G" android:scaleX="0.71" android:scaleY="0.71" android:rotation="0" android:translateX="57" android:translateY="57">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:pathData=" M0 -71 C39.18,-71 71,-39.18 71,0 C71,39.18 39.18,71 0,71 C-39.18,71 -71,39.18 -71,0 C-71,-39.18 -39.18,-71 0,-71c " android:strokeColor="@color/2131101618" android:strokeWidth="12" android:trimPathStart="0" android:trimPathEnd="0.75" android:trimPathOffset="0" android:strokeLineCap="round" android:strokeLineJoin="round" android:strokeAlpha="1"/>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <FrameLayout android:layout_gravity="top|center_horizontal" android:paddingBottom="@dimen/2131165330" android:clipToPadding="false" android:layout_width="@dimen/2131166741" android:layout_height="@dimen/2131166741">
+        <ImageView android:layout_gravity="top|center_horizontal" android:id="@+id/2131429862" android:clickable="false" android:layout_width="@dimen/2131165333" android:layout_height="@dimen/2131165333" android:scaleType="centerInside" android:importantForAccessibility="no"/>
+    </FrameLayout>
+    <o.C1204Sr android:textSize="@dimen/2131166642" android:textColor="?android:attr/textColorSecondary" android:gravity="top|center_horizontal" android:layout_gravity="top|center_horizontal" android:id="@+id/2131429863" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="2" android:importantForAccessibility="noHideDescendants" android:paddingStart="@dimen/2131166639" android:paddingEnd="@dimen/2131166639" style="?attr/netflixTextViewStyle"/>
+</LinearLayout>

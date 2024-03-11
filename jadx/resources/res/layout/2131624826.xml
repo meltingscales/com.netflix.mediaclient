@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131428558" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1203Sq android:textSize="@dimen/2131166535" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@+id/2131428557" android:background="?attr/selectableItemBackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/2131166533" android:minHeight="@dimen/2131166532" app:nb_borderlessRipple="false" app:nb_buttonColor="@android:color/transparent" app:nb_rippleColor="@color/2131101755" app:nb_strokeColor="@android:color/transparent" app:nb_strokeWidth="0dp" app:nb_textColor="?android:attr/textColorPrimary"/>
+</FrameLayout>

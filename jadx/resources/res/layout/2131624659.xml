@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:paddingTop="@dimen/2131166539" android:paddingBottom="4dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.C1204Sr android:textAppearance="@style/2132083578" android:textColor="@color/2131099892" android:id="@+id/2131429101" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</FrameLayout>

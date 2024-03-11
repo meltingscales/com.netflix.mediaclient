@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/2131428663" android:background="@color/2131099847" style="@style/2132084398">
+    <LinearLayout android:orientation="vertical" android:layout_margin="@dimen/2131165727" style="@style/2132084398">
+        <o.C1204Sr android:textSize="@dimen/2131166643" android:textColor="@color/2131101779" android:id="@+id/2131428666" android:text="@string/2132018438" android:fontFamily="sans-serif-medium" style="@style/2132084398"/>
+        <o.C1204Sr android:textSize="@dimen/2131166620" android:textColor="@color/2131101756" android:layout_gravity="center_horizontal" android:id="@+id/2131428664" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132018845" android:fontFamily="sans-serif" style="@style/2132084398"/>
+        <o.C1203Sq android:textSize="@dimen/2131166620" android:textColor="@color/2131101025" android:gravity="end" android:id="@+id/2131428661" android:padding="@dimen/2131166639" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132018620" android:fontFamily="sans-serif-medium" style="@style/2132083199"/>
+        <o.C1203Sq android:textSize="@dimen/2131166620" android:textColor="@color/2131101025" android:gravity="end" android:id="@+id/2131428665" android:padding="@dimen/2131166639" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:textAllCaps="true" android:fontFamily="sans-serif-medium" style="@style/2132083199"/>
+        <o.C1203Sq android:textSize="@dimen/2131166620" android:textColor="@color/2131101025" android:gravity="end" android:id="@+id/2131428662" android:padding="@dimen/2131166639" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/2131165542" android:text="@string/2132019183" android:fontFamily="sans-serif-medium" style="@style/2132083199"/>
+    </LinearLayout>
+</FrameLayout>

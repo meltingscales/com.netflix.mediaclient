@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:id="@+id/2131428005" android:layout_width="@dimen/2131165342" android:layout_height="@dimen/2131165342" android:layout_marginLeft="@dimen/2131165343" android:layout_marginRight="@dimen/2131165343" android:scaleType="centerInside" android:layout_marginHorizontal="@dimen/2131165343"/>

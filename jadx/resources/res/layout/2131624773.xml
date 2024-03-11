@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:id="@+id/2131429247" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="?attr/netflixActionBarSize" android:paddingBottom="?attr/netflixActionBarSize" style="@style/2132084394">
+            <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+            <o.C1204Sr android:layout_gravity="center_horizontal" android:id="@+id/2131429248" android:paddingTop="@dimen/2131165542" android:paddingBottom="@dimen/2131165461" android:text="@string/2132019227" style="@style/2132083368"/>
+            <o.SL android:gravity="top" android:layout_gravity="center_horizontal" android:id="@+id/2131429245" android:layout_width="wrap_content" android:layout_height="wrap_content" android:listSelector="@drawable/2131234705" android:stretchMode="none" android:columnWidth="@dimen/2131166466" android:numColumns="1"/>
+            <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        </LinearLayout>
+    </ScrollView>
+    <o.C1204Sr android:textSize="@dimen/2131166631" android:gravity="center" android:id="@+id/2131429222" android:background="@drawable/2131234627" android:padding="@dimen/2131165542" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/2132020048" android:drawableEnd="@drawable/2131232127" android:fontFamily="@font/2131296268" android:drawableTint="@color/2131100123" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

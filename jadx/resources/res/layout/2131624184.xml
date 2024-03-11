@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.FloatingActionButton xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/2131428235" android:layout_width="@dimen/2131165608" android:layout_height="@dimen/2131165608" app:fabCustomSize="@dimen/2131165608" app:rippleColor="@color/2131100325"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C9955zj xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:id="@+id/2131427388" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <o.SW android:id="@+id/2131429759" android:background="?attr/toolbarBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/2131428385" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/2131427386"/>
+        <o.C1205Ss android:id="@+id/2131427386" android:layout_width="0dp" android:layout_height="@dimen/2131165639" app:buttonGravity="" app:layout_constraintEnd_toStartOf="@+id/2131429211" app:layout_constraintHorizontal_chainStyle="?0x7f0b069f" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:navigationIcon="?attr/homeAsUpIndicator" app:subtitleTextAppearance="@style/2132083961">
+            <ProgressBar android:layout_gravity="start|center_vertical" android:id="@+id/2131428652" android:paddingTop="12dp" android:paddingBottom="12dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateOnly="true" style="?android:attr/progressBarStyle"/>
+            <include layout="@layout/2131623966"/>
+        </o.C1205Ss>
+        <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429211" android:padding="14dp" android:visibility="gone" android:layout_width="@dimen/2131165267" android:layout_height="@dimen/2131165267" app:foreground="@drawable/2131234706" app:layout_constraintBottom_toBottomOf="@+id/2131427386" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toEndOf="@+id/2131427386" app:layout_constraintTop_toTopOf="@+id/2131427386" app:roundedCornerRadius="@dimen/2131165694"/>
+    </o.SW>
+</o.C9955zj>

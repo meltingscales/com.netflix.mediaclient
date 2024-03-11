@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <TextView android:textAppearance="@style/2132083589" android:textColor="?attr/tooltipForegroundColor" android:ellipsize="end" android:id="@+id/2131428770" android:background="?attr/tooltipFrameBackground" android:paddingLeft="@dimen/2131166656" android:paddingTop="@dimen/2131166663" android:paddingRight="@dimen/2131166656" android:paddingBottom="@dimen/2131166663" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/2131166657" android:maxWidth="256dp" android:maxLines="3" android:paddingStart="@dimen/2131166656" android:paddingEnd="@dimen/2131166656"/>
+</LinearLayout>

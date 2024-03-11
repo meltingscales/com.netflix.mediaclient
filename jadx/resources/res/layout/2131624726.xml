@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@color/2131099945" android:clipChildren="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <o.C1677aKd android:id="@+id/2131429192" android:clipChildren="true" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="@+id/2131429191" app:layout_constraintEnd_toEndOf="@+id/2131429191" app:layout_constraintStart_toStartOf="@+id/2131429191" app:layout_constraintTop_toTopOf="@+id/2131429191"/>
+    <com.netflix.mediaclient.android.widget.NetflixImageView android:id="@+id/2131429191" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

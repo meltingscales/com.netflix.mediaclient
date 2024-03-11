@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/2131429701" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <o.C1204Sr android:textSize="@dimen/2131165458" android:textStyle="bold" android:textColor="@color/2131099784" android:id="@+id/2131428770" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <o.C1204Sr android:textSize="@dimen/2131165450" android:textColor="@color/2131099785" android:id="@+id/2131429439" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</LinearLayout>

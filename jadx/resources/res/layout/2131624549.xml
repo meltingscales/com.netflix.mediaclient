@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/2131166201" android:layout_height="@dimen/2131166197" style="?attr/materialCalendarDay"/>
