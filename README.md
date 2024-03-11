@@ -2,19 +2,19 @@
 
 ### gitleaks
 
-TODO
+Nothing.
 
 ### apkurlgrep
 
-TODO
+Nothing.
 
 ### Snyk SAST
 
-TODO
+Waiting for scan results.
 
 ### jadx
 
-TODO
+Nothing.
 
 ## Commands
 
