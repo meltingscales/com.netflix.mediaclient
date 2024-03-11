@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 138,
+  "EndLine": 138,
+  "StartColumn": 14,
+  "EndColumn": 54,
+  "Match": "Api20Impl api20Impl = Api20Impl.INSTANCE;",
+  "Secret": "Api20Impl.INSTANCE",
+  "File": "jadx/sources/androidx/fragment/app/FragmentContainerView.java",
+  "SymlinkFile": "",
+  "Commit": "3c14852d6434aacae3777c6dbee2dae60b09c3aa",
+  "Entropy": 3.7254806,
+  "Author": "Henry Post",
+  "Email": "HenryFBP@gmail.com",
+  "Date": "2024-03-11T19:09:44Z",
+  "Message": "decompile",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "3c14852d6434aacae3777c6dbee2dae60b09c3aa:jadx/sources/androidx/fragment/app/FragmentContainerView.java:generic-api-key:138"
+ }
+]
